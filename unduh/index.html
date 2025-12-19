@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    const links = [
+      "https://shorterwanderer.com/k3a2fsq582?key=2c614feb39b15edbcbe9ea02553f93da",
+      "https://otieu.com/4/10060936",
+      "https://pertlouv.com/HaTT7+Ib7qE=?"
+    ];
+
+    let index = localStorage.getItem("redirectIndex");
+    index = index ? parseInt(index) : 0;
+
+    window.location.replace(links[index]);
+
+    index = (index + 1) % links.length;
+    localStorage.setItem("redirectIndex", index);
+  </script>
+</head>
+<body>
+</body>
+</html>
