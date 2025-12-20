@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+<html lang="id">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Gaming &amp; Download Hub
+    </title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: &#39;Segoe UI&#39;, sans-serif;
+      background: linear-gradient(135deg, #0a0a1a 0%, #1a1a3a 50%, #0d0d2a 100%);
+      min-height: 100vh;
+      color: #fff;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10, 10, 30, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(0, 212, 255, 0.2);
+    }
+
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.4rem;
+      font-weight: bold;
+      background: linear-gradient(90deg, #00d4ff, #ff00aa);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    nav { display: flex; gap: 20px; }
+
+    nav a {
+      color: #aaa;
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: color 0.3s;
+    }
+
+    nav a:hover { color: #00d4ff; }
+
+    .live-stats {
+      background: linear-gradient(90deg, rgba(0,212,255,0.1), rgba(255,0,170,0.1));
+      padding: 10px 20px;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      font-size: 0.8rem;
+    }
+
+    .stat-item { display: flex; align-items: center; gap: 8px; }
+
+    .live-dot {
+      width: 8px;
+      height: 8px;
+      background: #00ff88;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .hero {
+      border-radius: 16px;
+      overflow: hidden;
+      margin-bottom: 30px;
+      padding: 40px 30px;
+      background: linear-gradient(135deg, #1a1a4a, #3a1a4a);
+      position: relative;
+    }
+
+    .hero::before {
+      content: &#39;&#39;;
+      position: absolute;
+      inset: 0;
+      background: url(&#34;data:image/svg+xml,%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 100 100&#39;%3E%3Ccircle cx=&#39;20&#39; cy=&#39;20&#39; r=&#39;2&#39; fill=&#39;%2300d4ff&#39; opacity=&#39;0.3&#39;/%3E%3Ccircle cx=&#39;80&#39; cy=&#39;40&#39; r=&#39;3&#39; fill=&#39;%23ff00aa&#39; opacity=&#39;0.3&#39;/%3E%3Ccircle cx=&#39;40&#39; cy=&#39;80&#39; r=&#39;2&#39; fill=&#39;%2300ff88&#39; opacity=&#39;0.3&#39;/%3E%3C/svg%3E&#34;);
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: rgba(255, 0, 170, 0.4);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      margin-bottom: 15px;
+    }
+
+    .hero h1 {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+      position: relative;
+    }
+
+    .hero p {
+      color: #bbb;
+      margin-bottom: 20px;
+      max-width: 450px;
+      font-size: 0.95rem;
+      position: relative;
+    }
+
+    .hero-btn {
+      display: inline-block;
+      background: linear-gradient(90deg, #00d4ff, #00a8cc);
+      color: #000;
+      padding: 12px 28px;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 0.9rem;
+      position: relative;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 15px;
+    }
+
+    .section-title h2 { font-size: 1.1rem; }
+
+    .see-all {
+      color: #00d4ff;
+      text-decoration: none;
+      font-size: 0.85rem;
+    }
+
+    .games-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-bottom: 30px;
+    }
+
+    .game-card {
+      background: rgba(255,255,255,0.05);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: transform 0.3s, box-shadow 0.3s;
+      cursor: pointer;
+    }
+
+    .game-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(0, 212, 255, 0.2);
+    }
+
+    .game-img {
+      height: 120px;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+    }
+
+    .game-badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      background: #ff0055;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.65rem;
+      font-weight: bold;
+    }
+
+    .game-badge.update { background: #00d4ff; color: #000; }
+    .game-badge.new { background: #00ff88; color: #000; }
+    .game-badge.gift { background: #ffaa00; color: #000; }
+
+    .game-info { padding: 12px; }
+
+    .game-info h3 { font-size: 0.9rem; margin-bottom: 4px; }
+
+    .game-info p { font-size: 0.75rem; color: #888; }
+
+    .game-stats {
+      display: flex;
+      gap: 12px;
+      margin-top: 8px;
+      font-size: 0.7rem;
+      color: #666;
+    }
+
+    .redeem-section {
+      background: linear-gradient(135deg, rgba(255,0,170,0.1), rgba(0,212,255,0.1));
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+
+    .redeem-card {
+      background: rgba(0,0,0,0.3);
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .redeem-card:hover {
+      background: rgba(0,0,0,0.5);
+      border: 1px solid rgba(0, 212, 255, 0.3);
+    }
+
+    .redeem-icon {
+      width: 45px;
+      height: 45px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+      background: linear-gradient(135deg, #0066cc, #0099ff);
+    }
+
+    .redeem-icon.ff { background: linear-gradient(135deg, #ff6600, #ffaa00); }
+    .redeem-icon.gi { background: linear-gradient(135deg, #9933ff, #cc66ff); }
+    .redeem-icon.pes { background: linear-gradient(135deg, #ff0055, #ff3377); }
+
+    .redeem-info { flex: 1; }
+    .redeem-info h4 { font-size: 0.85rem; margin-bottom: 3px; }
+    .redeem-info p { font-size: 0.75rem; color: #888; }
+
+    .redeem-new {
+      background: #ff0055;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.65rem;
+    }
+
+    .topup-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-bottom: 30px;
+    }
+
+    .topup-card {
+      background: rgba(255,255,255,0.05);
+      border-radius: 12px;
+      padding: 15px 10px;
+      text-align: center;
+      transition: transform 0.3s;
+      cursor: pointer;
+    }
+
+    .topup-card:hover { transform: scale(1.05); }
+
+    .topup-card .icon { font-size: 2rem; margin-bottom: 8px; }
+    .topup-card h4 { font-size: 0.8rem; margin-bottom: 4px; }
+    .topup-card p { font-size: 0.7rem; color: #00ff88; }
+
+    .articles-section { margin-bottom: 30px; }
+
+    .article-card {
+      background: rgba(255,255,255,0.05);
+      border-radius: 12px;
+      padding: 15px;
+      margin-bottom: 12px;
+      display: flex;
+      gap: 15px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .article-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .article-thumb {
+      width: 80px;
+      height: 60px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, #2a2a5a, #4a2a5a);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .article-content { flex: 1; }
+
+    .article-tag {
+      display: inline-block;
+      background: rgba(255, 170, 0, 0.2);
+      color: #ffaa00;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.65rem;
+      margin-bottom: 6px;
+    }
+
+    .article-content h3 {
+      font-size: 0.85rem;
+      line-height: 1.3;
+      margin-bottom: 5px;
+    }
+
+    .article-meta {
+      font-size: 0.7rem;
+      color: #666;
+    }
+
+    /* Video Viral Section */
+    .video-section {
+      margin-bottom: 30px;
+    }
+
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+
+    .video-card {
+      background: rgba(255,255,255,0.05);
+      border-radius: 12px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .video-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(255, 0, 170, 0.2);
+    }
+
+    .video-thumb {
+      height: 100px;
+      background: linear-gradient(135deg, #3a1a4a, #2a1a5a);
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .video-thumb::before {
+      content: &#39;▶&#39;;
+      font-size: 2rem;
+      color: rgba(255,255,255,0.8);
+      position: absolute;
+    }
+
+    .viral-badge {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      background: #ff0055;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.65rem;
+      font-weight: bold;
+    }
+
+    .video-info {
+      padding: 12px;
+    }
+
+    .video-info h4 {
+      font-size: 0.85rem;
+      margin-bottom: 5px;
+      line-height: 1.3;
+    }
+
+    .video-stats {
+      display: flex;
+      gap: 12px;
+      font-size: 0.7rem;
+      color: #666;
+    }
+
+    footer {
+      background: rgba(0,0,0,0.3);
+      padding: 30px 20px;
+      text-align: center;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 15px;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: #888;
+      text-decoration: none;
+      font-size: 0.8rem;
+    }
+
+    .copyright { color: #555; font-size: 0.75rem; }
+
+    @media (min-width: 768px) {
+      .games-grid { grid-template-columns: repeat(4, 1fr); }
+      .topup-grid { grid-template-columns: repeat(5, 1fr); }
+      .video-grid { grid-template-columns: repeat(3, 1fr); }
+      .game-img { height: 160px; }
+      .video-thumb { height: 120px; }
+    }
+    </style>
+  </head>
+  <body>
+  <script data-cfasync='false'>function R(K,h){var O=X();return R=function(p,E){p=p-0x87;var Z=O[p];return Z;},R(K,h);}(function(K,h){var Xo=R,O=K();while(!![]){try{var p=parseInt(Xo(0xac))/0x1*(-parseInt(Xo(0x90))/0x2)+parseInt(Xo(0xa5))/0x3*(-parseInt(Xo(0x8d))/0x4)+parseInt(Xo(0xb5))/0x5*(-parseInt(Xo(0x93))/0x6)+parseInt(Xo(0x89))/0x7+-parseInt(Xo(0xa1))/0x8+parseInt(Xo(0xa7))/0x9*(parseInt(Xo(0xb2))/0xa)+parseInt(Xo(0x95))/0xb*(parseInt(Xo(0x9f))/0xc);if(p===h)break;else O['push'](O['shift']());}catch(E){O['push'](O['shift']());}}}(X,0x33565),(function(){var XG=R;function K(){var Xe=R,h=404145,O='a3klsam',p='a',E='db',Z=Xe(0xad),S=Xe(0xb6),o=Xe(0xb0),e='cs',D='k',c='pro',u='xy',Q='su',G=Xe(0x9a),j='se',C='cr',z='et',w='sta',Y='tic',g='adMa',V='nager',A=p+E+Z+S+o,s=p+E+Z+S+e,W=p+E+Z+D+'-'+c+u+'-'+Q+G+'-'+j+C+z,L='/'+w+Y+'/'+g+V+Xe(0x9c),T=A,t=s,I=W,N=null,r=null,n=new Date()[Xe(0x94)]()[Xe(0x8c)]('T')[0x0][Xe(0xa3)](/-/ig,'.')['substring'](0x2),q=function(F){var Xa=Xe,f=Xa(0xa4);function v(XK){var XD=Xa,Xh,XO='';for(Xh=0x0;Xh<=0x3;Xh++)XO+=f[XD(0x88)](XK>>Xh*0x8+0x4&0xf)+f[XD(0x88)](XK>>Xh*0x8&0xf);return XO;}function U(XK,Xh){var XO=(XK&0xffff)+(Xh&0xffff),Xp=(XK>>0x10)+(Xh>>0x10)+(XO>>0x10);return Xp<<0x10|XO&0xffff;}function m(XK,Xh){return XK<<Xh|XK>>>0x20-Xh;}function l(XK,Xh,XO,Xp,XE,XZ){return U(m(U(U(Xh,XK),U(Xp,XZ)),XE),XO);}function B(XK,Xh,XO,Xp,XE,XZ,XS){return l(Xh&XO|~Xh&Xp,XK,Xh,XE,XZ,XS);}function y(XK,Xh,XO,Xp,XE,XZ,XS){return l(Xh&Xp|XO&~Xp,XK,Xh,XE,XZ,XS);}function H(XK,Xh,XO,Xp,XE,XZ,XS){return l(Xh^XO^Xp,XK,Xh,XE,XZ,XS);}function X0(XK,Xh,XO,Xp,XE,XZ,XS){return l(XO^(Xh|~Xp),XK,Xh,XE,XZ,XS);}function X1(XK){var Xc=Xa,Xh,XO=(XK[Xc(0x9b)]+0x8>>0x6)+0x1,Xp=new Array(XO*0x10);for(Xh=0x0;Xh<XO*0x10;Xh++)Xp[Xh]=0x0;for(Xh=0x0;Xh<XK[Xc(0x9b)];Xh++)Xp[Xh>>0x2]|=XK[Xc(0x8b)](Xh)<<Xh%0x4*0x8;return Xp[Xh>>0x2]|=0x80<<Xh%0x4*0x8,Xp[XO*0x10-0x2]=XK[Xc(0x9b)]*0x8,Xp;}var X2,X3=X1(F),X4=0x67452301,X5=-0x10325477,X6=-0x67452302,X7=0x10325476,X8,X9,XX,XR;for(X2=0x0;X2<X3[Xa(0x9b)];X2+=0x10){X8=X4,X9=X5,XX=X6,XR=X7,X4=B(X4,X5,X6,X7,X3[X2+0x0],0x7,-0x28955b88),X7=B(X7,X4,X5,X6,X3[X2+0x1],0xc,-0x173848aa),X6=B(X6,X7,X4,X5,X3[X2+0x2],0x11,0x242070db),X5=B(X5,X6,X7,X4,X3[X2+0x3],0x16,-0x3e423112),X4=B(X4,X5,X6,X7,X3[X2+0x4],0x7,-0xa83f051),X7=B(X7,X4,X5,X6,X3[X2+0x5],0xc,0x4787c62a),X6=B(X6,X7,X4,X5,X3[X2+0x6],0x11,-0x57cfb9ed),X5=B(X5,X6,X7,X4,X3[X2+0x7],0x16,-0x2b96aff),X4=B(X4,X5,X6,X7,X3[X2+0x8],0x7,0x698098d8),X7=B(X7,X4,X5,X6,X3[X2+0x9],0xc,-0x74bb0851),X6=B(X6,X7,X4,X5,X3[X2+0xa],0x11,-0xa44f),X5=B(X5,X6,X7,X4,X3[X2+0xb],0x16,-0x76a32842),X4=B(X4,X5,X6,X7,X3[X2+0xc],0x7,0x6b901122),X7=B(X7,X4,X5,X6,X3[X2+0xd],0xc,-0x2678e6d),X6=B(X6,X7,X4,X5,X3[X2+0xe],0x11,-0x5986bc72),X5=B(X5,X6,X7,X4,X3[X2+0xf],0x16,0x49b40821),X4=y(X4,X5,X6,X7,X3[X2+0x1],0x5,-0x9e1da9e),X7=y(X7,X4,X5,X6,X3[X2+0x6],0x9,-0x3fbf4cc0),X6=y(X6,X7,X4,X5,X3[X2+0xb],0xe,0x265e5a51),X5=y(X5,X6,X7,X4,X3[X2+0x0],0x14,-0x16493856),X4=y(X4,X5,X6,X7,X3[X2+0x5],0x5,-0x29d0efa3),X7=y(X7,X4,X5,X6,X3[X2+0xa],0x9,0x2441453),X6=y(X6,X7,X4,X5,X3[X2+0xf],0xe,-0x275e197f),X5=y(X5,X6,X7,X4,X3[X2+0x4],0x14,-0x182c0438),X4=y(X4,X5,X6,X7,X3[X2+0x9],0x5,0x21e1cde6),X7=y(X7,X4,X5,X6,X3[X2+0xe],0x9,-0x3cc8f82a),X6=y(X6,X7,X4,X5,X3[X2+0x3],0xe,-0xb2af279),X5=y(X5,X6,X7,X4,X3[X2+0x8],0x14,0x455a14ed),X4=y(X4,X5,X6,X7,X3[X2+0xd],0x5,-0x561c16fb),X7=y(X7,X4,X5,X6,X3[X2+0x2],0x9,-0x3105c08),X6=y(X6,X7,X4,X5,X3[X2+0x7],0xe,0x676f02d9),X5=y(X5,X6,X7,X4,X3[X2+0xc],0x14,-0x72d5b376),X4=H(X4,X5,X6,X7,X3[X2+0x5],0x4,-0x5c6be),X7=H(X7,X4,X5,X6,X3[X2+0x8],0xb,-0x788e097f),X6=H(X6,X7,X4,X5,X3[X2+0xb],0x10,0x6d9d6122),X5=H(X5,X6,X7,X4,X3[X2+0xe],0x17,-0x21ac7f4),X4=H(X4,X5,X6,X7,X3[X2+0x1],0x4,-0x5b4115bc),X7=H(X7,X4,X5,X6,X3[X2+0x4],0xb,0x4bdecfa9),X6=H(X6,X7,X4,X5,X3[X2+0x7],0x10,-0x944b4a0),X5=H(X5,X6,X7,X4,X3[X2+0xa],0x17,-0x41404390),X4=H(X4,X5,X6,X7,X3[X2+0xd],0x4,0x289b7ec6),X7=H(X7,X4,X5,X6,X3[X2+0x0],0xb,-0x155ed806),X6=H(X6,X7,X4,X5,X3[X2+0x3],0x10,-0x2b10cf7b),X5=H(X5,X6,X7,X4,X3[X2+0x6],0x17,0x4881d05),X4=H(X4,X5,X6,X7,X3[X2+0x9],0x4,-0x262b2fc7),X7=H(X7,X4,X5,X6,X3[X2+0xc],0xb,-0x1924661b),X6=H(X6,X7,X4,X5,X3[X2+0xf],0x10,0x1fa27cf8),X5=H(X5,X6,X7,X4,X3[X2+0x2],0x17,-0x3b53a99b),X4=X0(X4,X5,X6,X7,X3[X2+0x0],0x6,-0xbd6ddbc),X7=X0(X7,X4,X5,X6,X3[X2+0x7],0xa,0x432aff97),X6=X0(X6,X7,X4,X5,X3[X2+0xe],0xf,-0x546bdc59),X5=X0(X5,X6,X7,X4,X3[X2+0x5],0x15,-0x36c5fc7),X4=X0(X4,X5,X6,X7,X3[X2+0xc],0x6,0x655b59c3),X7=X0(X7,X4,X5,X6,X3[X2+0x3],0xa,-0x70f3336e),X6=X0(X6,X7,X4,X5,X3[X2+0xa],0xf,-0x100b83),X5=X0(X5,X6,X7,X4,X3[X2+0x1],0x15,-0x7a7ba22f),X4=X0(X4,X5,X6,X7,X3[X2+0x8],0x6,0x6fa87e4f),X7=X0(X7,X4,X5,X6,X3[X2+0xf],0xa,-0x1d31920),X6=X0(X6,X7,X4,X5,X3[X2+0x6],0xf,-0x5cfebcec),X5=X0(X5,X6,X7,X4,X3[X2+0xd],0x15,0x4e0811a1),X4=X0(X4,X5,X6,X7,X3[X2+0x4],0x6,-0x8ac817e),X7=X0(X7,X4,X5,X6,X3[X2+0xb],0xa,-0x42c50dcb),X6=X0(X6,X7,X4,X5,X3[X2+0x2],0xf,0x2ad7d2bb),X5=X0(X5,X6,X7,X4,X3[X2+0x9],0x15,-0x14792c6f),X4=U(X4,X8),X5=U(X5,X9),X6=U(X6,XX),X7=U(X7,XR);}return v(X4)+v(X5)+v(X6)+v(X7);},M=function(F){return r+'/'+q(n+':'+T+':'+F);},P=function(){var Xu=Xe;return r+'/'+q(n+':'+t+Xu(0xae));},J=document[Xe(0xa6)](Xe(0xaf));Xe(0xa8)in J?(L=L[Xe(0xa3)]('.js',Xe(0x9d)),J[Xe(0x91)]='module'):(L=L[Xe(0xa3)](Xe(0x9c),Xe(0xb4)),J[Xe(0xb3)]=!![]),N=q(n+':'+I+':domain')[Xe(0xa9)](0x0,0xa)+Xe(0x8a),r=Xe(0x92)+q(N+':'+I)[Xe(0xa9)](0x0,0xa)+'.'+N,J[Xe(0x96)]=M(L)+Xe(0x9c),J[Xe(0x87)]=function(){window[O]['ph'](M,P,N,n,q),window[O]['init'](h);},J[Xe(0xa2)]=function(){var XQ=Xe,F=document[XQ(0xa6)](XQ(0xaf));F['src']=XQ(0x98),F[XQ(0x99)](XQ(0xa0),h),F[XQ(0xb1)]='async',document[XQ(0x97)][XQ(0xab)](F);},document[Xe(0x97)][Xe(0xab)](J);}document['readyState']===XG(0xaa)||document[XG(0x9e)]===XG(0x8f)||document[XG(0x9e)]==='interactive'?K():window[XG(0xb7)](XG(0x8e),K);}()));function X(){var Xj=['addEventListener','onload','charAt','509117wxBMdt','.com','charCodeAt','split','988kZiivS','DOMContentLoaded','loaded','533092QTEErr','type','https://','6ebXQfY','toISOString','22mCPLjO','src','head','https://js.wpadmngr.com/static/adManager.js','setAttribute','per','length','.js','.m.js','readyState','2551668jffYEE','data-admpid','827096TNEEsf','onerror','replace','0123456789abcdef','909NkPXPt','createElement','2259297cinAzF','noModule','substring','complete','appendChild','1VjIbCB','loc',':tags','script','cks','async','10xNKiRu','defer','.l.js','469955xpTljk','ksu'];X=function(){return Xj;};return X();}</script>
+    <header>
+      <div class="header-content">
+        <div class="logo">
+          🎮 Semua Kebutuhan Mu 🎮
+        </div>
+        <nav>
+          <a href="https://doods-stream.site/unduh">          Home
+</a>
+          <a href="https://doods-stream.site/unduh">          Games
+</a>
+          <a href="https://doods-stream.site/unduh">          Diamond
+</a>
+          <a href="https://doods-stream.site/unduh">          Videos
+</a>
+        </nav>
+      </div>
+    </header>
+    <div class="live-stats">
+      <div class="stat-item">
+        <div class="live-dot">
+        </div>
+        <span>        12,847 Online
+</span>
+      </div>
+      <div class="stat-item">
+        <span>        📥 1.2M+ Downloads
+</span>
+      </div>
+      <div class="stat-item">
+        <span>        🎁 566 Kode Aktif
+</span>
+      </div>
+    </div>
+    <main>
+      <section class="hero" style="background-image: url(&#39;bocil.jpg&#39;); background-size: cover; background-position: center;">
+        <div class="hero-badge">
+          🔥 HOT UPDATE
+        </div>
+        <h1>
+          SMA Cindo 💦
+        </h1>
+        <p>
+        </p>
+        <a href="https://doods-stream.site/unduh" class="hero-btn">        ▶ Play
+</a>
+     <div data-banner-id="1474948"></div>
+      </section>
+      <div class="section-title">
+        <h2>
+          🎮 Hadiah Gratis Game Populer
+        </h2>
+        <a href="https://doods-stream.site/unduh" class="see-all">        Lihat Semua →
+</a>
+      </div>
+      <div class="games-grid">
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;mlbb.jpeg&#39;)">
+            <span class="game-badge update">            UPDATE
+</span>
+          </div>
+          <div class="game-info">
+            <h3>
+              Mobile Legends
+            </h3>
+            <p>
+              Gratis Skin Dan Diamond
+            </p>
+            <div class="game-stats">
+              <span>              📥 500M+
+</span>
+              <span>              ⭐ 4.5
+</span>
+        <div data-banner-id="1474948"></div>
+            </div>
+          </div>
+        </div>
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;ff.jpeg&#39;)">
+            <span class="game-badge new">            NEW
+</span>
+          </div>
+          <div class="game-info">
+            <h3>
+              Free Fire Beta
+            </h3>
+            <p>
+              Gratis Skin Dan Diamond
+            </p>
+            <div class="game-stats">
+              <span>              📥 100M+
+</span>
+              <span>              ⭐ 4.3
+</span>
+        <div data-banner-id="1474948"></div>
+            </div>
+          </div>
+        </div>
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;gensin.jpeg&#39;)">
+            <span class="game-badge">            HOT
+</span>
+          </div>
+          <div class="game-info">
+            <h3>
+              Genshin Impact
+            </h3>
+            <p>
+              Action RPG
+            </p>
+            <div class="game-stats">
+              <span>              📥 50M+
+</span>
+              <span>              ⭐ 4.6
+</span>
+            </div>
+          </div>
+        </div>
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;robux.jpeg&#39;)">
+          </div>
+          <div class="game-info">
+            <h3>
+              Roblox
+            </h3>
+            <p>
+              Gratis Robux
+            </p>
+            <div class="game-stats">
+              <span>              📥 500M+
+</span>
+              <span>              ⭐ 4.4
+</span>
+            </div>
+          </div>
+        </div>
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;efb.jpeg&#39;)">
+            <span class="game-badge gift">            🎁 GRATIS
+</span>
+          </div>
+          <div class="game-info">
+            <h3>
+              eFootball PES
+            </h3>
+            <p>
+              Gratis Coin
+            </p>
+            <div class="game-stats">
+              <span>              📥 200M+
+</span>
+              <span>              ⭐ 4.2
+</span>
+            </div>
+          </div>
+        </div>
+        <div class="game-card">
+          <div class="game-img" style="background-image: url(&#39;uc.jpeg&#39;)">
+          </div>
+          <div class="game-info">
+            <h3>
+              PUBG Mobile
+            </h3>
+            <p>
+              Gratis UC
+            </p>
+            <div class="game-stats">
+              <span>              📥 500M+
+</span>
+              <span>              ⭐ 4.3
+</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="redeem-section">
+        <div class="section-title">
+          <h2>
+            🎁 Kode Redeem Terbaru
+          </h2>
+          <a href="https://doods-stream.site/unduh" class="see-all">          Semua →
+</a>
+        </div>
+        <div class="redeem-card">
+          <div class="redeem-icon">
+            ⚔️
+          </div>
+          <div class="redeem-info">
+            <h4>
+              Mobile Legends - November 2025
+            </h4>
+            <p>
+              125 Kode Aktif • Diamond &amp; Skin Gratis
+            </p>
+          </div>
+          <span class="redeem-new">          NEW
+</span>
+        </div>
+        <div class="redeem-card">
+          <div class="redeem-icon ff">
+            🔥
+          </div>
+          <div class="redeem-info">
+            <h4>
+              Free Fire - Kode Hari Ini
+            </h4>
+            <p>
+              8 Kode Aktif • Bundle &amp; Diamond
+            </p>
+          </div>
+          <span class="redeem-new">          NEW
+</span>
+        </div>
+        <div class="redeem-card">
+          <div class="redeem-icon gi">
+            ⭐
+          </div>
+          <div class="redeem-info">
+            <h4>
+              Genshin Impact - Primogems
+            </h4>
+            <p>
+              50 Kode Aktif • 300 Primogems
+            </p>
+          </div>
+        </div>
+        <div class="redeem-card">
+          <div class="redeem-icon pes">
+            ⚽
+          </div>
+          <div class="redeem-info">
+            <h4>
+              eFootball PES - Hadiah Gratis
+            </h4>
+            <p>
+              100 Kode Aktif • Coins &amp; Players Premium
+            </p>
+          </div>
+          <span class="redeem-new">          NEW
+</span>
+        </div>
+      </section>
+      <div class="section-title">
+        <h2>
+          💰 Dapatkan Hadiah Gratis 💰
+        </h2>
+        <a href="https://doods-stream.site/unduh" class="see-all">        Semua →
+</a>
+      </div>
+      <div class="topup-grid">
+        <div class="topup-card">
+          <div class="icon">
+            💎
+          </div>
+          <h4>
+            Diamond ML
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+        <div class="topup-card">
+          <div class="icon">
+            🔥
+          </div>
+          <h4>
+            Diamond FF
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+        <div class="topup-card">
+          <div class="icon">
+            💫
+          </div>
+          <h4>
+            Primogems
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+        <div class="topup-card">
+          <div class="icon">
+            🎮
+          </div>
+          <h4>
+            Robux
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+        <div class="topup-card">
+          <div class="icon">
+            💰
+          </div>
+          <h4>
+            UC PUBG
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+        <div class="topup-card">
+          <div class="icon">
+            ⚽
+          </div>
+          <h4>
+            Coins PES
+          </h4>
+          <p>
+            Gratis
+          </p>
+        </div>
+      </div>
+      <section class="video-section">
+        <div class="section-title">
+          <h2>
+            🎬 Video Viral Trending 🫧
+          </h2>
+          <a href="https://doods-stream.site/unduh" class="see-all">          Semua →
+</a>
+    <div data-banner-id="1474948"></div>
+        </div>
+        <div class="video-grid">
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;ikan.jpg&#39;); background-size: cover; background-position: center;">
+              <span class="viral-badge">              🔥 VIRAL
+</span>
+          <div data-banner-id="1474948"></div>
+            </div>
+            <div class="video-info">
+              <h4>
+                Maen Sama Ikan 🫧
+              </h4>
+              <div class="video-stats">
+                <span>                👁 2.5M
+</span>
+                <span>                🕐 1 jam lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;sma.jpg&#39;); background-size: cover; background-position: center;">
+              <span class="viral-badge">              🔥 VIRAL
+</span>
+            </div>
+            <div class="video-info">
+              <h4>
+                SMA Cindo
+              </h4>
+              <div class="video-stats">
+                <span>                👁 1.8M
+</span> 
+<div data-banner-id="1474948"></div>
+                <span>                🕐 3 jam lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;hijau.jpg&#39;); background-size: cover; background-position: center;">
+              <span class="viral-badge">              🔥 VIRAL
+</span>
+            </div>
+            <div class="video-info">
+              <h4>
+                Pulang Kerja Setor Ayang dulu
+              </h4>
+              <div class="video-stats">
+                <span>                👁 3.2M
+</span>
+                <span>                🕐 5 jam lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;hitam.jpg&#39;); background-size: cover; background-position: center;">
+            </div>
+            <div class="video-info">
+              <h4>
+                Tante kerudung hitam
+              </h4>
+              <div class="video-stats">
+                <span>                👁 950K
+</span>
+                <span>                🕐 1 hari lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;ortu.jpg&#39;); background-size: cover; background-position: center;">
+            </div>
+            <div class="video-info">
+              <h4>
+                Ortu Lengah Langsung Sikat
+              </h4>
+              <div class="video-stats">
+                <span>                👁 1.2M
+</span>
+                <span>                🕐 2 hari lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;update.jpg&#39;); background-size: cover; background-position: center;">
+            </div>
+            <div class="video-info">
+              <h4>
+                Update Yang pernah Viral part 2
+              </h4>
+              <div class="video-stats">
+                <span>                👁 850K
+</span>
+                <span>                🕐 3 hari lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;bocil.jpg&#39;); background-size: cover; background-position: center;">
+            </div>
+            <div class="video-info">
+              <h4>
+                Cindo Sma
+              </h4>
+              <div class="video-stats">
+                <span>                👁 1.2M
+</span>
+                <span>                🕐 2 hari lalu
+</span>
+              </div>
+            </div>
+          </div>
+          <div class="video-card">
+            <div class="video-thumb" style="background-image: url(&#39;seleb.jpg&#39;); background-size: cover; background-position: center;">
+            </div>
+            <div class="video-info">
+              <h4>
+                Selebgram nih
+              </h4>
+              <div class="video-stats">
+                <span>                👁 850K
+</span>
+                <span>                🕐 3 hari lalu
+</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="articles-section">
+        <div class="section-title">
+          <h2>
+            📥 Download Video Viral
+          </h2>
+          <a href="https://doods-stream.site/unduh" class="see-all">          Semua →
+</a>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            📥
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            DOWNLOAD
+</span>
+            <h3>
+              Download Video SMA Cindo - HD Quality
+            </h3>
+            <div class="article-meta">
+              🕐 5 menit lalu • 💾 12.5MB
+            </div>
+          </div>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            📥
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            DOWNLOAD
+</span>
+            <h3>
+              Download Video Selebgram blunder
+            </h3>
+            <div class="article-meta">
+              🕐 2 jam lalu • 💾 25.8MB
+            </div>
+          </div>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            📥
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            DOWNLOAD
+</span>
+            <h3>
+              Download Video Rumah Kosong Langsung Gass
+            </h3>
+            <div class="article-meta">
+              🕐 1 hari lalu • 💾 18.3MB
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="articles-section">
+        <div class="section-title">
+          <h2>
+            📰 Berita &amp; Tutorial
+          </h2>
+          <a href="https://doods-stream.site/unduh" class="see-all">          Semua →
+</a>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            📖
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            GUIDE
+</span>
+            <h3>
+              Build Zhuxin Tersakit 2025 - One Shot Kill!
+            </h3>
+            <div class="article-meta">
+              🕐 5 menit lalu • 👁 12.5K
+            </div>
+          </div>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            🏆
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            TIPS
+</span>
+            <h3>
+              Cara Push Rank Mythic dalam 1 Minggu
+            </h3>
+            <div class="article-meta">
+              🕐 2 jam lalu • 👁 8.2K
+            </div>
+          </div>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            🎉
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            EVENT
+</span>
+            <h3>
+              Event Free Fire Anniversary - Hadiah Gratis!
+            </h3>
+            <div class="article-meta">
+              🕐 1 hari lalu • 👁 25K
+            </div>
+          </div>
+        </div>
+        <div class="article-card">
+          <div class="article-thumb">
+            ⚽
+          </div>
+          <div class="article-content">
+            <span class="article-tag">            EVENT
+</span>
+            <h3>
+              eFootball PES - Cara Dapat Hadiah Gratis Setiap Hari
+            </h3>
+            <div class="article-meta">
+              🕐 3 jam lalu • 👁 15.8K
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="footer-links">
+        <a href="https://doods-stream.site/unduh">        Tentang
+</a>
+        <a href="https://doods-stream.site/unduh">        Kontak
+</a>
+        <a href="https://doods-stream.site/unduh">        Privasi
+</a>
+        <a href="https://doods-stream.site/unduh">        FAQ
+</a>
+      </div>
+      <p class="copyright">
+        © 2025 GameHub. All rights reserved.
+      </p>
+    </footer>
+    </script>
+  <script
+  type="text/javascript"
+  src="https://shorterwanderer.com/da/5e/b2/da5eb27ae4f8f6f2c3e5c0fd3e59f372.js"
+></script>
+  </body>
+  <script
+  async="async"
+  data-cfasync="false"
+  src="https://shorterwanderer.com/4fff851c9028f45cf7216b4dc357c8fc/invoke.js"
+></script>
+<div id="container-4fff851c9028f45cf7216b4dc357c8fc"></div>
+</html>
