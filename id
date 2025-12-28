@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html data-n-head-ssr="" lang="en" data-lang="id" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D,%22data-lang%22:%7B%22ssr%22:%22id%22%7D%7D">
+  <head>
+  <script src="https://quge5.com/88/tag.min.js" data-zone="196777" async data-cfasync="false"></script>
+    <title>
+      Garena Free Fire. Game genre Battle Royale mobile terbaik!
+    </title>
+    <meta data-n-head="ssr" charset="utf-8" />
+    <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta data-n-head="ssr" name="format-detection" content="telephone=no" />
+    <meta data-n-head="ssr" name="google-site-verification" content="ccUA5BqkBRTiiEHPhrqW0ZHpqd-ofePYxBhFJJoKjXk" />
+    <meta data-n-head="ssr" data-hid="description" name="description" content="Free Fire adalah game mobile battle royale terbaik, diunduh lebih dari 1 milyar pemain di seluruh dunia, dikembangkan oleh Garena untuk Android dan iOS. Battle in Style dan jadi survivor yang bertahan" />
+    <meta data-n-head="ssr" data-hid="keywords" name="keywords" content="battle royale, game mobile gratis, game mobile terbaik, game garena, multi-pemain, survivor" />
+    <base href="/" />
+    <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://dl.dir.freefiremobile.com/common/web_event/common/images/logo.png" />
+    <link data-n-head="ssr" rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/common/packages/spine/3.8/spine-player.css" />
+    <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://dl.dir.freefiremobile.com/common/web_event/common/images/logo.png" />
+    <script data-n-head="ssr" type="application/ld+json">
+      {&#34;@context&#34;:&#34;https://schema.org&#34;,&#34;@type&#34;:&#34;WebSite&#34;,&#34;name&#34;:&#34;Garena Free Fire&#34;,&#34;alternateName&#34;:[&#34;Garena Free Fire&#34;,&#34;Free Fire&#34;],&#34;url&#34;:&#34;https://ff.garena.com/&#34;}
+    </script>
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/9c2e2c6.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/2c0c9a4.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/6786561.css" as="style" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/6e68437.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/54b6d24.css" as="style" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/bce9e7d.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/0493224.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/4923e27.css" as="style" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/ce0d910.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/cdbb9a1.css" as="style" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/92af477.js" as="script" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/a9f664b.css" as="style" />
+    <link rel="preload" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/c78c0b0.js" as="script" />
+    <link rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/6786561.css" />
+    <link rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/54b6d24.css" />
+    <link rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/4923e27.css" />
+    <link rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/cdbb9a1.css" />
+    <link rel="stylesheet" href="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/css/a9f664b.css" />
+    <script type="text/javascript" src="https://filebagasarya.biz.id/js/head.js">
+    </script>
+  </head>
+  <body>
+    <div data-server-rendered="true" id="__nuxt">
+      <!---->
+      <div id="__layout">
+        <div class="page-container" data-v-18ff1465="">
+          <header class="header" data-v-e064591c="" data-v-18ff1465="">
+            <nav class="nav" data-v-5c2a046a="" data-v-e064591c="">
+              <a href="/id/" title="Free Fire" class="nav-logo" data-v-5c2a046a="">              <svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 571.54 485.99" class="svg-logo desktop" data-v-5c2a046a="">
+                <g data-v-5c2a046a="">
+                  <path d="M280.68,187.34c2.41-9.01,11.68-16.32,20.7-16.32c0.14,0,108.61,0.01,143.95,0.01
+          c6.99,0,13.58-3.09,18.08-8.45l46.89-55.85c2.15-2.57,0.33-6.48-3.02-6.48H239.6c-10.72,0-20.1,7.2-22.87,17.56l-83.37,311.93
+          c-0.74,2.79,1.66,5.4,4.5,4.9l66.12-11.66c9.06-1.6,16.37-8.3,18.75-17.18l35.18-131.29l153.93-0.06c7,0,13.63-3.09,18.13-8.45
+          l46.88-55.85c2.15-2.57,0.33-6.48-3.02-6.48l-181.33-0.04C283.57,203.55,278.28,196.3,280.68,187.34z" class="logo-path" data-v-5c2a046a="">
+                  </path>
+                  <path d="M171.2,51.29c-10.71,0-20.09,7.2-22.86,17.54l-25.63,95.66c-0.77,3.49,0.67,6.56,4.2,6.56h30.04
+          c2.15,0,2.51,2.62,0.56,4.11l-44.91,34.18c-1.47,1.12-2.55,2.68-2.98,4.3l-1.09,4.07c-0.35,1.32,0.43,2.39,1.75,2.39H143
+          c2.16,0,2.51,2.63,0.54,4.12l-43.77,32.91c-1.49,1.13-2.58,2.7-3.02,4.34l-1.41,5.29c-0.35,1.32,0.43,2.38,1.75,2.38l33.45,0
+          c2.15,0,2.5,2.61,0.56,4.1l-45.36,34.93c-1.23,0.95-2.05,2.52-2.58,3.85l-22.72,84.79c-0.75,2.79,1.65,5.41,4.5,4.91l48.37-8.53
+          c9.08-1.6,16.4-8.32,18.77-17.23l72.89-274.44c2.75-10.37,12.14-17.59,22.88-17.59h190.06c7,0,13.63-3.1,18.13-8.45l14.86-17.71
+          c2.15-2.57,0.33-6.48-3.02-6.48H171.2z" class="logo-path" data-v-5c2a046a="">
+                  </path>
+                </g>
+              </svg>
+              <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/full_logo.969f536.png" alt="logo" class="mobile" data-v-5c2a046a="" />
+</a>
+              <div class="nav-menu-layer" style="display:none;" data-v-5c2a046a="" data-v-5c2a046a="">
+              </div>
+              <div class="nav-menu" data-v-5c2a046a="">
+                <div class="nav-close-icon" data-v-5c2a046a="">
+                  <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="close-icon" data-v-5c2a046a="">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7813 8.89044L17.2813 2.39044L15.5135 0.622676L9.01348 7.12268L2.28125 0.390442L0.513483 2.15821L7.24572 8.89044L0.623042 15.5131L2.39081 17.2809L9.01348 10.6582L15.4039 17.0487L17.1717 15.2809L10.7813 8.89044Z" data-v-5c2a046a="">
+                    </path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7813 8.89044L17.2813 2.39044L15.5135 0.622676L9.01348 7.12268L2.28125 0.390442L0.513483 2.15821L7.24572 8.89044L0.623042 15.5131L2.39081 17.2809L9.01348 10.6582L15.4039 17.0487L17.1717 15.2809L10.7813 8.89044Z" data-v-5c2a046a="">
+                    </path>
+                  </svg>
+                </div>
+                <ul class="nav-list" data-v-5c2a046a="">
+                  <li class="nav-item" data-v-5c2a046a="">
+                    <a target="" rel="" class="nav-link" data-v-5c2a046a="">                    GAME
+                    <svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg" class="arrow" data-v-5c2a046a="">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-5c2a046a="">
+                      </path>
+                    </svg>
+                    <!---->
+</a>
+                    <ul class="nav-sub-list" style="display:none;" data-v-5c2a046a="">
+                      <li class="nav-sub-item" data-v-5c2a046a="">
+                        <a href="/id/pets/" target="" rel="noopener noreferrer" class="nav-sub-link" data-v-5c2a046a="">                        PET
+                        <!---->
+</a>
+                      </li>
+                      <li class="nav-sub-item" data-v-5c2a046a="">
+                        <a href="/id/maps/" target="" rel="noopener noreferrer" class="nav-sub-link" data-v-5c2a046a="">                        PETA
+                        <!---->
+</a>
+                      </li>
+                      <li class="nav-sub-item" data-v-5c2a046a="">
+                        <a href="/id/weapons/" target="" rel="noopener noreferrer" class="nav-sub-link" data-v-5c2a046a="">                        Senjata
+                        <!---->
+</a>
+                      </li>
+                      <li class="nav-sub-item" data-v-5c2a046a="">
+                        <a href="/id/chars/" target="" rel="noopener noreferrer" class="nav-sub-link" data-v-5c2a046a="">                        KARAKTER
+                        <!---->
+</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item" data-v-5c2a046a="">
+                    <a href="/id/news/" target="" rel="" class="nav-link" data-v-5c2a046a="">                    BERITA
+                    <!---->
+                    <!---->
+</a>
+                    <!---->
+                  </li>
+                  <li class="nav-item" data-v-5c2a046a="">
+                    <a target="" rel="" class="nav-link" data-v-5c2a046a="">                    MEDIA
+                    <svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg" class="arrow" data-v-5c2a046a="">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-5c2a046a="">
+                      </path>
+                    </svg>
+                    <!---->
+</a>
+                    <ul class="nav-sub-list" style="display:none;" data-v-5c2a046a="">
+                      <li class="nav-sub-item" data-v-5c2a046a="">
+                        <a href="/id/video/" target="" rel="noopener noreferrer" class="nav-sub-link" data-v-5c2a046a="">                        Video
+                        <!---->
+</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item" data-v-5c2a046a="">
+                    <a href="/id/support/" target="" rel="" class="nav-link" data-v-5c2a046a="">                    SUPPORT
+                    <!---->
+                    <!---->
+</a>
+                    <!---->
+                  </li>
+                  <li class="nav-item" data-v-5c2a046a="">
+                    <a href="https://ff.garena.com/universe/id/" target="_blank" rel="external noopener noreferrer" class="nav-link" data-v-5c2a046a="">                    UNIVERSE
+                    <!---->
+                    <svg width="11" height="11" viewBox="0 0 11 11" xmlns="http://www.w3.org/2000/svg" class="arrow-out" data-v-5c2a046a="">
+                      <path d="M10.1818 0H3.40421V1.55934H7.20628L0 8.56724V11L8.6114 2.95454V6.72978H10.1818V0Z" data-v-5c2a046a="">
+                      </path>
+                    </svg>
+</a>
+                    <!---->
+                  </li>
+                </ul>
+              </div>
+              <div class="nav-right" data-v-5c2a046a="">
+                <a href="https://kiosgamer.co.id/?utm_source=official+website&amp;utm_medium=Entrance" target="_blank" class="nav-shop" style="display:;" data-v-5c2a046a="">                <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" class="nav-shop-icon" data-v-5c2a046a="">
+                  <circle cx="14" cy="14" r="14" fill="#181818" data-v-5c2a046a="">
+                  </circle>
+                  <path d="M20.344 9.70707C20.2475 9.68587 20.1491 9.68179 20.0514 9.69525H12.985C12.525 9.69525 12.1506 10.0676 12.1506 10.5251C12.1506 10.9826 12.525 11.355 12.985 11.355H19.1276L17.936 16.781H11.3607L11.0631 14.8258H16.4934C16.7164 14.8258 16.926 14.7396 17.0836 14.5829C17.2414 14.4261 17.328 14.2177 17.328 13.9961C17.328 13.5386 16.9537 13.1663 16.4936 13.1663H10.8107L9.97993 7.7056C9.91764 7.29801 9.55842 6.99517 9.14448 7.00006H6.83528C6.37524 7.00006 6.00085 7.37239 6.00085 7.82991C6.00085 8.28743 6.37524 8.65976 6.83528 8.65976H8.43691L9.81497 17.7182C9.87091 18.0861 10.1664 18.3716 10.5361 18.4177C10.5998 18.4329 10.6656 18.4407 10.7314 18.4407H18.4963C18.5551 18.4407 18.6139 18.4344 18.6719 18.4221C19.0391 18.3959 19.3479 18.1305 19.4266 17.7712L20.9807 10.6949C21.0788 10.2479 20.7932 9.80489 20.344 9.70707Z" fill="#A3A3A3" class="nav-shop-path" data-v-5c2a046a="">
+                  </path>
+                  <path d="M10.606 19.0872C9.7986 19.0872 9.14185 19.7403 9.14185 20.5431C9.14185 21.3458 9.7986 21.9992 10.606 21.9992C11.4133 21.9992 12.0701 21.346 12.0701 20.5431C12.0701 19.7401 11.4133 19.0872 10.606 19.0872Z" fill="#A3A3A3" class="nav-shop-path" data-v-5c2a046a="">
+                  </path>
+                  <path d="M17.3672 19.0872C16.5598 19.0872 15.9031 19.7403 15.9031 20.5431C15.9031 21.3458 16.5598 21.9992 17.3672 21.9992C18.1746 21.9992 18.8313 21.346 18.8313 20.5431C18.8313 19.7401 18.1746 19.0872 17.3672 19.0872Z" fill="#A3A3A3" class="nav-shop-path" data-v-5c2a046a="">
+                  </path>
+                </svg>
+</a>
+                <div class="nav-lang" data-v-5c2a046a="">
+                  <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" class="nav-global-icon" data-v-5c2a046a="">
+                    <circle cx="14" cy="14" r="14" fill="#181818" class="nav-global-circle" data-v-5c2a046a="">
+                    </circle>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 6C18.4183 6 22 9.58172 22 14C22 18.4183 18.4183 22 14 22C9.58172 22 6 18.4183 6 14C6 9.58172 9.58172 6 14 6ZM14 20.4C14.2681 20.4 14.8969 20.1633 15.5532 18.9131C15.8069 18.4299 16.029 17.8521 16.2025 17.2H11.7975C11.971 17.8521 12.1931 18.4299 12.4468 18.9131C13.1031 20.1633 13.7319 20.4 14 20.4ZM11.4942 15.6C11.4331 15.0915 11.4 14.5561 11.4 14C11.4 13.4439 11.4331 12.9085 11.4942 12.4H16.5058C16.5669 12.9085 16.6 13.4439 16.6 14C16.6 14.5561 16.5669 15.0915 16.5058 15.6H11.4942ZM17.8505 17.2C17.6369 18.1311 17.333 18.9699 16.9598 19.676C18.0382 19.1125 18.936 18.2506 19.5438 17.2H17.8505ZM20.1984 15.6H18.116C18.1711 15.083 18.2 14.5479 18.2 14C18.2 13.4521 18.1711 12.917 18.116 12.4H20.1984C20.33 12.9114 20.4 13.4475 20.4 14C20.4 14.5525 20.33 15.0886 20.1984 15.6ZM9.88402 15.6H7.80163C7.67001 15.0886 7.6 14.5525 7.6 14C7.6 13.4475 7.67001 12.9114 7.80163 12.4H9.88402C9.82892 12.917 9.8 13.4521 9.8 14C9.8 14.5479 9.82892 15.083 9.88402 15.6ZM8.45621 17.2H10.1495C10.3631 18.1311 10.667 18.9699 11.0402 19.676C9.9618 19.1125 9.06396 18.2506 8.45621 17.2ZM11.7975 10.8H16.2025C16.029 10.1479 15.8069 9.57012 15.5532 9.08688C14.8969 7.83672 14.2681 7.6 14 7.6C13.7319 7.6 13.1031 7.83672 12.4468 9.08688C12.1931 9.57012 11.971 10.1479 11.7975 10.8ZM17.8505 10.8H19.5438C18.936 9.74937 18.0382 8.88755 16.9598 8.32405C17.333 9.03014 17.6369 9.86886 17.8505 10.8ZM11.0402 8.32405C10.667 9.03014 10.3631 9.86886 10.1495 10.8H8.45621C9.06396 9.74937 9.9618 8.88755 11.0402 8.32405Z" class="nav-global-path" data-v-5c2a046a="">
+                    </path>
+                  </svg>
+                  <ul class="nav-lang-list" style="display:none;" data-v-5c2a046a="">
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/en/" class="nav-lang-link en" data-v-5c2a046a="">                      English
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/pt/" class="nav-lang-link pt" data-v-5c2a046a="">                      Português
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/es/" class="nav-lang-link es" data-v-5c2a046a="">                      Español
+</a>
+                    </li>
+                    <li class="nav-lang-item active" data-v-5c2a046a="">
+                      <a href="/id/" class="nav-lang-link id" data-v-5c2a046a="">                      Indonesian
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/th/" class="nav-lang-link th" data-v-5c2a046a="">                      ภาษาไทย
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/ru/" class="nav-lang-link ru" data-v-5c2a046a="">                      Pусский
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/vn/" class="nav-lang-link vn" data-v-5c2a046a="">                      Việt Nam
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/zh/" class="nav-lang-link zh" data-v-5c2a046a="">                      中文(繁體)
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/en-pk/" class="nav-lang-link en-pk" data-v-5c2a046a="">                      Pakistan
+</a>
+                    </li>
+                    <li class="nav-lang-item" data-v-5c2a046a="">
+                      <a href="/ME_en/" class="nav-lang-link ME_en" data-v-5c2a046a="">                      MEA - English
+</a>
+                    </li>
+                  </ul>
+                </div>
+                <button class="nav-download-btn normal-btn" data-v-5c2a046a="">
+                  MAINKAN GRATIS
+                </button>
+                <svg width="18" height="16" viewBox="0 0 18 16" xmlns="http://www.w3.org/2000/svg" class="menu-icon nav-menu-icon" data-v-5c2a046a="">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H18V2.5H0V0ZM0 6.5H18V9H0V6.5ZM18 13H0V15.5H18V13Z" data-v-5c2a046a="">
+                  </path>
+                </svg>
+              </div>
+              <div class="download nav-download" style="display:none;" data-v-659e30db="" data-v-659e30db="" data-v-5c2a046a="">
+                <section class="download-module" data-v-659e30db="">
+                  <div class="download-inner" data-v-659e30db="">
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/full_logo.969f536.png" alt="Free Fire" class="download-logo" data-v-659e30db="" />
+                    <p class="dowonload-slogn" data-v-659e30db="">
+                      SILAHKAN PILIH UNTUK DOWNLOAD
+                    </p>
+                    <ul class="download-channels" data-v-659e30db="">
+                      <li class="channel ios" data-v-659e30db="">
+                        <a target="_blank" href="https://app.appsflyer.com/id1300146617?pid=OrganicA&amp;c=mainpage_IOS" class="channel-link" data-v-659e30db="">                        <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db="">
+                          <path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db="">
+                          </path>
+                        </svg>
+</a>
+                      </li>
+                      <li class="channel android" data-v-659e30db="">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefireth" class="channel-link google-icon" data-v-659e30db="">                        <svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db="">
+                          <path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db="">
+                          </path>
+                        </svg>
+</a>
+                      </li>
+                      <!---->
+                      <!---->
+                    </ul>
+                  </div>
+                </section>
+                <section class="download-module" data-v-659e30db="">
+                  <div class="download-inner" data-v-659e30db="">
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/max_logo.b96cbd2.png" alt="Free Fire Max" class="download-logo" data-v-659e30db="" />
+                    <p class="dowonload-slogn" data-v-659e30db="">
+                      SILAHKAN PILIH UNTUK DOWNLOAD
+                    </p>
+                    <ul class="download-channels" data-v-659e30db="">
+                      <li class="channel ios" data-v-659e30db="">
+                        <a target="_blank" href="https://apps.apple.com/us/app/garena-free-fire-max/id1480516829" class="channel-link" data-v-659e30db="">                        <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db="">
+                          <path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db="">
+                          </path>
+                        </svg>
+</a>
+                      </li>
+                      <li class="channel android" data-v-659e30db="">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefiremax" class="channel-link" data-v-659e30db="">                        <svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db="">
+                          <path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db="">
+                          </path>
+                        </svg>
+</a>
+                      </li>
+                      <!---->
+                      <!---->
+                    </ul>
+                  </div>
+                </section>
+                <!---->
+              </div>
+            </nav>
+          </header>
+          <section class="main" data-v-18ff1465="">
+            <section id="home-container" class="home-container" data-v-1d3e1117="" data-v-18ff1465="">
+              <section id="home-app" class="home-app section-module" data-v-4c89bc92="" data-v-1d3e1117="">
+                <img src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20255/792f0508b08f3f324bd37eefcd07e2ed.jpg" alt="FreeFire" class="home-app-cover landscape" data-v-4c89bc92="" />
+                <img src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20255/2f9bd02e0ff7bbd4fc2850f74b7d977f.jpg" alt="FreeFire" class="home-app-cover portrait" data-v-4c89bc92="" />
+                <!---->
+                <div class="home-app-content" data-v-4c89bc92="">
+                  <h1 class="home-app-title" data-v-4c89bc92="">
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20251/c118533702026f510a7a035cd91df64f.png" alt="logo" class="home-app-logo" data-v-4c89bc92="" />
+                  </h1>
+                  <ul class="home-app-list" data-v-4c89bc92="">
+                    <li class="home-app-item" data-v-4c89bc92="">
+                      <a href="https://app.appsflyer.com/id1300146617?pid=OrganicA&amp;c=mainpage_IOS" target="_blank" class="home-apple-link" data-v-4c89bc92="">                      <svg id="livetype" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.66407 40" class="apple-store" data-v-4c89bc92="">
+                        <title data-v-4c89bc92="">
+                          Download_on_the_App_Store_Badge_US-UK_RGB_blk_4SVG_092917
+                        </title>
+                        <g data-v-4c89bc92="">
+                          <g data-v-4c89bc92="">
+                            <g data-v-4c89bc92="">
+                              <path d="M110.13477,0H9.53468c-.3667,0-.729,0-1.09473.002-.30615.002-.60986.00781-.91895.0127A13.21476,13.21476,0,0,0,5.5171.19141a6.66509,6.66509,0,0,0-1.90088.627A6.43779,6.43779,0,0,0,1.99757,1.99707,6.25844,6.25844,0,0,0,.81935,3.61816a6.60119,6.60119,0,0,0-.625,1.90332,12.993,12.993,0,0,0-.1792,2.002C.00587,7.83008.00489,8.1377,0,8.44434V31.5586c.00489.3105.00587.6113.01515.9219a12.99232,12.99232,0,0,0,.1792,2.0019,6.58756,6.58756,0,0,0,.625,1.9043A6.20778,6.20778,0,0,0,1.99757,38.001a6.27445,6.27445,0,0,0,1.61865,1.1787,6.70082,6.70082,0,0,0,1.90088.6308,13.45514,13.45514,0,0,0,2.0039.1768c.30909.0068.6128.0107.91895.0107C8.80567,40,9.168,40,9.53468,40H110.13477c.3594,0,.7246,0,1.084-.002.3047,0,.6172-.0039.9219-.0107a13.279,13.279,0,0,0,2-.1768,6.80432,6.80432,0,0,0,1.9082-.6308,6.27742,6.27742,0,0,0,1.6172-1.1787,6.39482,6.39482,0,0,0,1.1816-1.6143,6.60413,6.60413,0,0,0,.6191-1.9043,13.50643,13.50643,0,0,0,.1856-2.0019c.0039-.3106.0039-.6114.0039-.9219.0078-.3633.0078-.7246.0078-1.0938V9.53613c0-.36621,0-.72949-.0078-1.09179,0-.30664,0-.61426-.0039-.9209a13.5071,13.5071,0,0,0-.1856-2.002,6.6177,6.6177,0,0,0-.6191-1.90332,6.46619,6.46619,0,0,0-2.7988-2.7998,6.76754,6.76754,0,0,0-1.9082-.627,13.04394,13.04394,0,0,0-2-.17676c-.3047-.00488-.6172-.01074-.9219-.01269-.3594-.002-.7246-.002-1.084-.002Z" style="fill: #a6a6a6" data-v-4c89bc92="">
+                              </path>
+                              <path d="M8.44483,39.125c-.30468,0-.602-.0039-.90429-.0107a12.68714,12.68714,0,0,1-1.86914-.1631,5.88381,5.88381,0,0,1-1.65674-.5479,5.40573,5.40573,0,0,1-1.397-1.0166,5.32082,5.32082,0,0,1-1.02051-1.3965,5.72186,5.72186,0,0,1-.543-1.6572,12.41351,12.41351,0,0,1-.1665-1.875c-.00634-.2109-.01464-.9131-.01464-.9131V8.44434S.88185,7.75293.8877,7.5498a12.37039,12.37039,0,0,1,.16553-1.87207,5.7555,5.7555,0,0,1,.54346-1.6621A5.37349,5.37349,0,0,1,2.61183,2.61768,5.56543,5.56543,0,0,1,4.01417,1.59521a5.82309,5.82309,0,0,1,1.65332-.54394A12.58589,12.58589,0,0,1,7.543.88721L8.44532.875H111.21387l.9131.0127a12.38493,12.38493,0,0,1,1.8584.16259,5.93833,5.93833,0,0,1,1.6709.54785,5.59374,5.59374,0,0,1,2.415,2.41993,5.76267,5.76267,0,0,1,.5352,1.64892,12.995,12.995,0,0,1,.1738,1.88721c.0029.2832.0029.5874.0029.89014.0079.375.0079.73193.0079,1.09179V30.4648c0,.3633,0,.7178-.0079,1.0752,0,.3252,0,.6231-.0039.9297a12.73126,12.73126,0,0,1-.1709,1.8535,5.739,5.739,0,0,1-.54,1.67,5.48029,5.48029,0,0,1-1.0156,1.3857,5.4129,5.4129,0,0,1-1.3994,1.0225,5.86168,5.86168,0,0,1-1.668.5498,12.54218,12.54218,0,0,1-1.8692.1631c-.2929.0068-.5996.0107-.8974.0107l-1.084.002Z" data-v-4c89bc92="">
+                              </path>
+                            </g>
+                            <g id="_Group_" data-name="&lt;Group&gt;" data-v-4c89bc92="">
+                              <g id="_Group_2" data-name="&lt;Group&gt;" data-v-4c89bc92="">
+                                <g id="_Group_3" data-name="&lt;Group&gt;" data-v-4c89bc92="">
+                                  <path id="_Path_" data-name="&lt;Path&gt;" d="M24.76888,20.30068a4.94881,4.94881,0,0,1,2.35656-4.15206,5.06566,5.06566,0,0,0-3.99116-2.15768c-1.67924-.17626-3.30719,1.00483-4.1629,1.00483-.87227,0-2.18977-.98733-3.6085-.95814a5.31529,5.31529,0,0,0-4.47292,2.72787c-1.934,3.34842-.49141,8.26947,1.3612,10.97608.9269,1.32535,2.01018,2.8058,3.42763,2.7533,1.38706-.05753,1.9051-.88448,3.5794-.88448,1.65876,0,2.14479.88448,3.591.8511,1.48838-.02416,2.42613-1.33124,3.32051-2.66914a10.962,10.962,0,0,0,1.51842-3.09251A4.78205,4.78205,0,0,1,24.76888,20.30068Z" style="fill: #fff" data-v-4c89bc92="">
+                                  </path>
+                                  <path id="_Path_2" data-name="&lt;Path&gt;" d="M22.03725,12.21089a4.87248,4.87248,0,0,0,1.11452-3.49062,4.95746,4.95746,0,0,0-3.20758,1.65961,4.63634,4.63634,0,0,0-1.14371,3.36139A4.09905,4.09905,0,0,0,22.03725,12.21089Z" style="fill: #fff" data-v-4c89bc92="">
+                                  </path>
+                                </g>
+                              </g>
+                              <g data-v-4c89bc92="">
+                                <path d="M42.30227,27.13965h-4.7334l-1.13672,3.35645H34.42727l4.4834-12.418h2.083l4.4834,12.418H43.438ZM38.0591,25.59082h3.752l-1.84961-5.44727h-.05176Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M55.15969,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H48.4302v1.50586h.03418a3.21162,3.21162,0,0,1,2.88281-1.60059C53.645,21.34766,55.15969,23.16406,55.15969,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C52.30227,29.01563,53.24953,27.81934,53.24953,25.96973Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M65.12453,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H58.395v1.50586h.03418A3.21162,3.21162,0,0,1,61.312,21.34766C63.60988,21.34766,65.12453,23.16406,65.12453,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C62.26711,29.01563,63.21438,27.81934,63.21438,25.96973Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M71.71047,27.03613c.1377,1.23145,1.334,2.04,2.96875,2.04,1.56641,0,2.69336-.80859,2.69336-1.91895,0-.96387-.67969-1.541-2.28906-1.93652l-1.60937-.3877c-2.28027-.55078-3.33887-1.61719-3.33887-3.34766,0-2.14258,1.86719-3.61426,4.51855-3.61426,2.624,0,4.42285,1.47168,4.4834,3.61426h-1.876c-.1123-1.23926-1.13672-1.9873-2.63379-1.9873s-2.52148.75684-2.52148,1.8584c0,.87793.6543,1.39453,2.25488,1.79l1.36816.33594c2.54785.60254,3.60645,1.626,3.60645,3.44238,0,2.32324-1.85059,3.77832-4.79395,3.77832-2.75391,0-4.61328-1.4209-4.7334-3.667Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M83.34621,19.2998v2.14258h1.72168v1.47168H83.34621v4.99121c0,.77539.34473,1.13672,1.10156,1.13672a5.80752,5.80752,0,0,0,.61133-.043v1.46289a5.10351,5.10351,0,0,1-1.03223.08594c-1.833,0-2.54785-.68848-2.54785-2.44434V22.91406H80.16262V21.44238H81.479V19.2998Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M86.065,25.96973c0-2.84863,1.67773-4.63867,4.29395-4.63867,2.625,0,4.29492,1.79,4.29492,4.63867,0,2.85645-1.66113,4.63867-4.29492,4.63867C87.72609,30.6084,86.065,28.82617,86.065,25.96973Zm6.69531,0c0-1.9541-.89551-3.10742-2.40137-3.10742s-2.40039,1.16211-2.40039,3.10742c0,1.96191.89453,3.10645,2.40039,3.10645S92.76027,27.93164,92.76027,25.96973Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M96.18606,21.44238h1.77246v1.541h.043a2.1594,2.1594,0,0,1,2.17773-1.63574,2.86616,2.86616,0,0,1,.63672.06934v1.73828a2.59794,2.59794,0,0,0-.835-.1123,1.87264,1.87264,0,0,0-1.93652,2.083v5.37012h-1.8584Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                                <path d="M109.3843,27.83691c-.25,1.64355-1.85059,2.77148-3.89844,2.77148-2.63379,0-4.26855-1.76465-4.26855-4.5957,0-2.83984,1.64355-4.68164,4.19043-4.68164,2.50488,0,4.08008,1.7207,4.08008,4.46582v.63672h-6.39453v.1123a2.358,2.358,0,0,0,2.43555,2.56445,2.04834,2.04834,0,0,0,2.09082-1.27344Zm-6.28223-2.70215h4.52637a2.1773,2.1773,0,0,0-2.2207-2.29785A2.292,2.292,0,0,0,103.10207,25.13477Z" style="fill: #fff" data-v-4c89bc92="">
+                                </path>
+                              </g>
+                            </g>
+                          </g>
+                          <g id="_Group_4" data-name="&lt;Group&gt;" data-v-4c89bc92="">
+                            <g data-v-4c89bc92="">
+                              <path d="M37.82619,8.731a2.63964,2.63964,0,0,1,2.80762,2.96484c0,1.90625-1.03027,3.002-2.80762,3.002H35.67092V8.731Zm-1.22852,5.123h1.125a1.87588,1.87588,0,0,0,1.96777-2.146,1.881,1.881,0,0,0-1.96777-2.13379h-1.125Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M41.68068,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C44.57522,13.99463,45.01369,13.42432,45.01369,12.44434Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M51.57326,14.69775h-.92187l-.93066-3.31641h-.07031l-.92676,3.31641h-.91309l-1.24121-4.50293h.90137l.80664,3.436h.06641l.92578-3.436h.85254l.92578,3.436h.07031l.80273-3.436h.88867Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M53.85354,10.19482H54.709v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915h-.88867V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M59.09377,8.437h.88867v6.26074h-.88867Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M61.21779,12.44434a2.13346,2.13346,0,1,1,4.24756,0,2.1338,2.1338,0,1,1-4.24756,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C64.11232,13.99463,64.5508,13.42432,64.5508,12.44434Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M66.4009,13.42432c0-.81055.60352-1.27783,1.6748-1.34424l1.21973-.07031v-.38867c0-.47559-.31445-.74414-.92187-.74414-.49609,0-.83984.18213-.93848.50049h-.86035c.09082-.77344.81836-1.26953,1.83984-1.26953,1.12891,0,1.76563.562,1.76563,1.51318v3.07666h-.85547v-.63281h-.07031a1.515,1.515,0,0,1-1.35254.707A1.36026,1.36026,0,0,1,66.4009,13.42432Zm2.89453-.38477v-.37646l-1.09961.07031c-.62012.0415-.90137.25244-.90137.64941,0,.40527.35156.64111.835.64111A1.0615,1.0615,0,0,0,69.29543,13.03955Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M71.34816,12.44434c0-1.42285.73145-2.32422,1.86914-2.32422a1.484,1.484,0,0,1,1.38086.79h.06641V8.437h.88867v6.26074h-.85156v-.71143h-.07031a1.56284,1.56284,0,0,1-1.41406.78564C72.0718,14.772,71.34816,13.87061,71.34816,12.44434Zm.918,0c0,.95508.4502,1.52979,1.20313,1.52979.749,0,1.21191-.583,1.21191-1.52588,0-.93848-.46777-1.52979-1.21191-1.52979C72.72121,10.91846,72.26613,11.49707,72.26613,12.44434Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M79.23,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C82.12453,13.99463,82.563,13.42432,82.563,12.44434Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M84.66945,10.19482h.85547v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915H87.605V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M93.51516,9.07373v1.1416h.97559v.74854h-.97559V13.2793c0,.47168.19434.67822.63672.67822a2.96657,2.96657,0,0,0,.33887-.02051v.74023a2.9155,2.9155,0,0,1-.4834.04541c-.98828,0-1.38184-.34766-1.38184-1.21582v-2.543h-.71484v-.74854h.71484V9.07373Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M95.70461,8.437h.88086v2.48145h.07031a1.3856,1.3856,0,0,1,1.373-.80664,1.48339,1.48339,0,0,1,1.55078,1.67871v2.90723H98.69v-2.688c0-.71924-.335-1.0835-.96289-1.0835a1.05194,1.05194,0,0,0-1.13379,1.1416v2.62988h-.88867Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                              <path d="M104.76125,13.48193a1.828,1.828,0,0,1-1.95117,1.30273A2.04531,2.04531,0,0,1,100.73,12.46045a2.07685,2.07685,0,0,1,2.07617-2.35254c1.25293,0,2.00879.856,2.00879,2.27V12.688h-3.17969v.0498a1.1902,1.1902,0,0,0,1.19922,1.29,1.07934,1.07934,0,0,0,1.07129-.5459Zm-3.126-1.45117h2.27441a1.08647,1.08647,0,0,0-1.1084-1.1665A1.15162,1.15162,0,0,0,101.63527,12.03076Z" style="fill: #fff" data-v-4c89bc92="">
+                              </path>
+                            </g>
+                          </g>
+                        </g>
+                      </svg>
+</a>
+                    </li>
+                    <li class="home-app-item" data-v-4c89bc92="">
+                      <a href=" https://play.google.com/store/apps/details?id=com.dts.freefireth" target="_blank" class="home-google-link" data-v-4c89bc92="">                      <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/google_play.b8a7e58.png" alt="google play" class="google-play" data-v-4c89bc92="" />
+</a>
+                    </li>
+                    <!---->
+                  </ul>
+                  <button class="download-btn normal-btn" data-v-4c89bc92="">
+                    MAINKAN GRATIS
+                  </button>
+                </div>
+                <div class="download" style="display:none;" data-v-659e30db="" data-v-659e30db="" data-v-4c89bc92="">
+                  <section class="download-module" data-v-659e30db="">
+                    <div class="download-inner" data-v-659e30db="">
+                      <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/full_logo.969f536.png" alt="Free Fire" class="download-logo" data-v-659e30db="" />
+                      <p class="dowonload-slogn" data-v-659e30db="">
+                        SILAHKAN PILIH UNTUK DOWNLOAD
+                      </p>
+                      <ul class="download-channels" data-v-659e30db="">
+                        <li class="channel ios" data-v-659e30db="">
+                          <a target="_blank" href="https://app.appsflyer.com/id1300146617?pid=OrganicA&amp;c=mainpage_IOS" class="channel-link" data-v-659e30db="">                          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db="">
+                            <path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db="">
+                            </path>
+                          </svg>
+</a>
+                        </li>
+                        <li class="channel android" data-v-659e30db="">
+                          <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefireth" class="channel-link google-icon" data-v-659e30db="">                          <svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db="">
+                            <path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db="">
+                            </path>
+                          </svg>
+</a>
+                        </li>
+                        <!---->
+                        <!---->
+                      </ul>
+                    </div>
+                  </section>
+                  <section class="download-module" data-v-659e30db="">
+                    <div class="download-inner" data-v-659e30db="">
+                      <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/max_logo.b96cbd2.png" alt="Free Fire Max" class="download-logo" data-v-659e30db="" />
+                      <p class="dowonload-slogn" data-v-659e30db="">
+                        SILAHKAN PILIH UNTUK DOWNLOAD
+                      </p>
+                      <ul class="download-channels" data-v-659e30db="">
+                        <li class="channel ios" data-v-659e30db="">
+                          <a target="_blank" href="https://apps.apple.com/us/app/garena-free-fire-max/id1480516829" class="channel-link" data-v-659e30db="">                          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db="">
+                            <path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db="">
+                            </path>
+                          </svg>
+</a>
+                        </li>
+                        <li class="channel android" data-v-659e30db="">
+                          <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefiremax" class="channel-link" data-v-659e30db="">                          <svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db="">
+                            <path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db="">
+                            </path>
+                          </svg>
+</a>
+                        </li>
+                        <!---->
+                        <!---->
+                      </ul>
+                    </div>
+                  </section>
+                  <!---->
+                </div>
+              </section>
+              <section id="home-news" class="section-module home-news" data-v-78903782="" data-v-6404f554="" data-v-1d3e1117="">
+                <svg width="100%" viewBox="0 0 1440 25" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration polygon" data-v-78903782="">
+                  <path d="M0 23.6899H248.724L270.737 5.17356C272.873 3.03632 275.77 1.8349 278.792 1.8335H1440" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M248.546 23.3337H0V18.7046H253.887L248.546 23.3337Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow polygon" style="background-image:url(https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/home_news_bg.c422198.jpg);" data-v-78903782="">
+                  <section class="home-news-inner" data-v-78903782="" data-v-6404f554="">
+                    <section class="container home-news-container" data-v-605f603e="" data-v-6404f554="">
+                      <div class="home-news-content section-content black" data-v-9dacfb26="" data-v-6404f554="">
+                        <h2 title="BERITA 
+ TERBARU" class="section-title big" data-v-9dacfb26="">
+                          <p class="section-title-text" data-v-9dacfb26="">
+                            BERITA
+                            <br />
+                            TERBARU
+                          </p>
+                          <svg viewBox="0 0 165 9" fill="#FFBA00" xmlns="http://www.w3.org/2000/svg" class="title-decoration" data-v-9dacfb26="">
+                            <path d="M129.4 0L121.28 8.12H0V0H129.4Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M141.16 0L133.04 8.12H128.45L136.57 0H141.16Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M152.92 0L144.8 8.12H140.2L148.33 0H152.92Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M164.68 0L156.55 8.12H151.96L160.09 0H164.68Z" data-v-9dacfb26="">
+                            </path>
+                          </svg>
+                        </h2>
+                        <!---->
+                        <!---->
+                      </div>
+                      <section class="news" data-v-605f603e="" data-v-6404f554="">
+                        <ul class="news-list news-pc" data-v-3c17a9e7="" data-v-6404f554="">
+                          <li id="1474" class="news-item news-elem" data-v-4b6af3d6="" data-v-3c17a9e7="">
+                            <a href="/id/article/1474/" class="news-link" data-v-4b6af3d6="">                            <picture class="news-cover" data-v-4b6af3d6="">
+                              <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20255/9a6841f1f573570f3a0b561814a1ae98.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: Solara" class="news-img" data-v-4b6af3d6="" />
+                            </picture>
+                            <div class="news-info" data-v-4b6af3d6="">
+                              <span class="news-time" data-v-4b6af3d6="">                              15/05/2025
+</span>
+                              <span class="news-category" data-v-4b6af3d6="">                              Patch Note
+</span>
+                            </div>
+                            <h4 class="news-title" data-v-4b6af3d6="">
+                              Patch Notes: Solara
+                            </h4>
+</a>
+                          </li>
+                          <li id="1463" class="news-item news-elem" data-v-4b6af3d6="" data-v-3c17a9e7="">
+                            <a href="/id/article/1463/" class="news-link" data-v-4b6af3d6="">                            <picture class="news-cover" data-v-4b6af3d6="">
+                              <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20254/c5ebbaf4845bb64a82690d5bdda96a52.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: MyZone" class="news-img" data-v-4b6af3d6="" />
+                            </picture>
+                            <div class="news-info" data-v-4b6af3d6="">
+                              <span class="news-time" data-v-4b6af3d6="">                              04/04/2025
+</span>
+                              <span class="news-category" data-v-4b6af3d6="">                              Patch Note
+</span>
+                            </div>
+                            <h4 class="news-title" data-v-4b6af3d6="">
+                              Patch Notes: MyZone
+                            </h4>
+</a>
+                          </li>
+                          <li id="1455" class="news-item news-elem" data-v-4b6af3d6="" data-v-3c17a9e7="">
+                            <a href="/id/article/1455/" class="news-link" data-v-4b6af3d6="">                            <picture class="news-cover" data-v-4b6af3d6="">
+                              <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20252/745ce59da4aaf310dee64aa71d48cc1e.jpeg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: Patch Ramadan" class="news-img" data-v-4b6af3d6="" />
+                            </picture>
+                            <div class="news-info" data-v-4b6af3d6="">
+                              <span class="news-time" data-v-4b6af3d6="">                              19/02/2025
+</span>
+                              <span class="news-category" data-v-4b6af3d6="">                              Patch Note
+</span>
+                            </div>
+                            <h4 class="news-title" data-v-4b6af3d6="">
+                              Patch Notes: Patch Ramadan
+                            </h4>
+</a>
+                          </li>
+                        </ul>
+                        <div width="100%" height="100%" class="swiper-container news-swiper news-mob" data-v-6404f554="">
+                          <div class="swiper-wrapper">
+                            <div class="news-swiper-slide swiper-slide" data-v-6404f554="">
+                              <li id="1474" class="news-item" data-v-4b6af3d6="" data-v-6404f554="">
+                                <a href="/id/article/1474/" class="news-link" data-v-4b6af3d6="">                                <picture class="news-cover" data-v-4b6af3d6="">
+                                  <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20255/9a6841f1f573570f3a0b561814a1ae98.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: Solara" class="news-img" data-v-4b6af3d6="" />
+                                </picture>
+                                <div class="news-info" data-v-4b6af3d6="">
+                                  <span class="news-time" data-v-4b6af3d6="">                                  15/05/2025
+</span>
+                                  <span class="news-category" data-v-4b6af3d6="">                                  Patch Note
+</span>
+                                </div>
+                                <h4 class="news-title" data-v-4b6af3d6="">
+                                  Patch Notes: Solara
+                                </h4>
+</a>
+                              </li>
+                            </div>
+                            <div class="news-swiper-slide swiper-slide" data-v-6404f554="">
+                              <li id="1463" class="news-item" data-v-4b6af3d6="" data-v-6404f554="">
+                                <a href="/id/article/1463/" class="news-link" data-v-4b6af3d6="">                                <picture class="news-cover" data-v-4b6af3d6="">
+                                  <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20254/c5ebbaf4845bb64a82690d5bdda96a52.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: MyZone" class="news-img" data-v-4b6af3d6="" />
+                                </picture>
+                                <div class="news-info" data-v-4b6af3d6="">
+                                  <span class="news-time" data-v-4b6af3d6="">                                  04/04/2025
+</span>
+                                  <span class="news-category" data-v-4b6af3d6="">                                  Patch Note
+</span>
+                                </div>
+                                <h4 class="news-title" data-v-4b6af3d6="">
+                                  Patch Notes: MyZone
+                                </h4>
+</a>
+                              </li>
+                            </div>
+                            <div class="news-swiper-slide swiper-slide" data-v-6404f554="">
+                              <li id="1455" class="news-item" data-v-4b6af3d6="" data-v-6404f554="">
+                                <a href="/id/article/1455/" class="news-link" data-v-4b6af3d6="">                                <picture class="news-cover" data-v-4b6af3d6="">
+                                  <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20252/745ce59da4aaf310dee64aa71d48cc1e.jpeg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Patch Notes: Patch Ramadan" class="news-img" data-v-4b6af3d6="" />
+                                </picture>
+                                <div class="news-info" data-v-4b6af3d6="">
+                                  <span class="news-time" data-v-4b6af3d6="">                                  19/02/2025
+</span>
+                                  <span class="news-category" data-v-4b6af3d6="">                                  Patch Note
+</span>
+                                </div>
+                                <h4 class="news-title" data-v-4b6af3d6="">
+                                  Patch Notes: Patch Ramadan
+                                </h4>
+</a>
+                              </li>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="news-swiper-pagination news-mob" data-v-605f603e="" data-v-6404f554="">
+                        </div>
+                        <a href="/id/news/" target="_self" class="view-more news-more" data-v-575264f4="" data-v-6404f554="">                        LIHAT SEMUA
+                        <svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="view-more-icon" data-v-575264f4="">
+                          <path d="M1.34241 10.96H0V0.0400391H1.71674L6.98958 5.31287L1.34241 10.96Z" fill="#FFBA00" data-v-575264f4="">
+                          </path>
+                          <path d="M7.64783 0.0400391V1.58252L10.7715 4.71266L12.0881 3.39607L8.72563 0.0400391H7.64783Z" fill="#FFBA00" data-v-575264f4="">
+                          </path>
+                          <path d="M7.64783 10.8117H8.95797L14.1985 5.57113L12.8819 4.26099L7.64783 9.4951V10.8117Z" fill="#FFBA00" data-v-575264f4="">
+                          </path>
+                        </svg>
+</a>
+                      </section>
+                    </section>
+                  </section>
+                </section>
+              </section>
+              <section class="section-module home-about desktop" data-v-78903782="" data-v-4e0ea0e4="" data-v-1d3e1117="">
+                <svg width="55%" viewBox="0 0 809 5" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration trapezoid" data-v-78903782="">
+                  <path d="M0 3.95801H810" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M596.763 1.21411e-06H810V3.83467H590.574L593.672 1.15041C594.53 0.407623 595.628 -0.000812701 596.763 1.21411e-06Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow trapezoid" data-v-78903782="">
+                  <section class="home-about-inner" data-v-78903782="" data-v-4e0ea0e4="">
+                    <div class="home-about-left left inactive" data-v-78903782="" data-v-4e0ea0e4="">
+                      <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/65fef1213324415a00e170bef3a51e2b.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!" class="about-cover cover" data-v-78903782="" data-v-4e0ea0e4="" />
+                      <video preload="" playsinline="" autoplay="autoplay" muted="muted" loop="loop" poster="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/65fef1213324415a00e170bef3a51e2b.jpg" class="about-video" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="">
+                        <source src="https://dl.dir.freefiremobile.com/common/test/official/e68883609a0e69a03cc586852ff77dd7.mp4" type="video/mp4" data-v-78903782="" data-v-4e0ea0e4="" />
+                      </video>
+                      <div class="home-about-layer" data-v-78903782="" data-v-4e0ea0e4="">
+                      </div>
+                    </div>
+                    <div class="home-about-right right inactive" data-v-78903782="" data-v-4e0ea0e4="">
+                      <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/8a139e159b4f23e620bf3e86da2718a2.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Free Fire MAX dirancang khusus untuk menghadirkan pengalaman gameplay premium di Battle Royale. Nikmati berbagai mode permainan seru dengan semua pemain Free Fire melalui teknologi eksklusif Firelink. Rasakan pertempuran yang belum pernah ada sebelumnya dengan resolusi Ultra HD dan efek yang menakjubkan. Menyergap, menembak, dan bertahan hidup; Hanya ada satu tujuan: untuk bertahan hidup dan menjadi yang terakhir bertahan." class="about-cover cover" data-v-78903782="" data-v-4e0ea0e4="" />
+                      <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0afcdff114b583e304249bb6a324a569.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Visual" class="about-cover swiper-cover active" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="" />
+                      <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/4f51f049f2aae6726273d6469848d5be.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Gameplay" class="about-cover swiper-cover" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="" />
+                      <div class="home-about-layer" data-v-78903782="" data-v-4e0ea0e4="">
+                      </div>
+                    </div>
+                  </section>
+                  <section class="home-about-info" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="">
+                    <div class="home-about-info-inner" data-v-78903782="" data-v-4e0ea0e4="">
+                      <p class="home-about-desc" data-v-78903782="" data-v-4e0ea0e4="">
+                        BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!
+                      </p>
+                      <div class="event-swiper-pagination about-info-pagination" style="display:none;" data-v-bb70f84e="" data-v-4e0ea0e4="">
+                        <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" class="active pagination" data-v-bb70f84e="">
+                          <circle cx="13" cy="13" r="12" fill="none" stroke-width="1" stroke-linecap="round" stroke-dashoffset="314" class="circle" data-v-bb70f84e="">
+                          </circle>
+                          <circle cx="13" cy="13" r="3" fill="#FFBA00" stroke-linecap="round" class="dot" data-v-bb70f84e="">
+                          </circle>
+                        </svg>
+                        <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" class="pagination" data-v-bb70f84e="">
+                          <circle cx="13" cy="13" r="12" fill="none" stroke-width="1" stroke-linecap="round" stroke-dashoffset="314" class="circle" data-v-bb70f84e="">
+                          </circle>
+                          <circle cx="13" cy="13" r="3" fill="#FFBA00" stroke-linecap="round" class="dot" data-v-bb70f84e="">
+                          </circle>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class="about-swiper" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="">
+                      <div class="about-swiper-slide active" data-v-78903782="" data-v-4e0ea0e4="">
+                        <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0afcdff114b583e304249bb6a324a569.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Visual" class="about-image" data-v-78903782="" data-v-4e0ea0e4="" />
+                      </div>
+                      <div class="about-swiper-slide" data-v-78903782="" data-v-4e0ea0e4="">
+                        <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/4f51f049f2aae6726273d6469848d5be.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Gameplay" class="about-image" data-v-78903782="" data-v-4e0ea0e4="" />
+                      </div>
+                    </div>
+                    <button class="load-more toggle" style="display:none;" data-v-575264f4="" data-v-4e0ea0e4="">
+                      EXPLORE FREE FIRE MAX
+                      <svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="view-more-icon" data-v-575264f4="">
+                        <path d="M1.34241 10.96H0V0.0400391H1.71674L6.98958 5.31287L1.34241 10.96Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 0.0400391V1.58252L10.7715 4.71266L12.0881 3.39607L8.72563 0.0400391H7.64783Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 10.8117H8.95797L14.1985 5.57113L12.8819 4.26099L7.64783 9.4951V10.8117Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                      </svg>
+                    </button>
+                  </section>
+                  <button class="load-more toggle ff-toggle" style="display:none;" data-v-575264f4="" data-v-4e0ea0e4="">
+                    EXPLORE FREE FIRE
+                    <svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="view-more-icon" data-v-575264f4="">
+                      <path d="M1.34241 10.96H0V0.0400391H1.71674L6.98958 5.31287L1.34241 10.96Z" fill="#FFBA00" data-v-575264f4="">
+                      </path>
+                      <path d="M7.64783 0.0400391V1.58252L10.7715 4.71266L12.0881 3.39607L8.72563 0.0400391H7.64783Z" fill="#FFBA00" data-v-575264f4="">
+                      </path>
+                      <path d="M7.64783 10.8117H8.95797L14.1985 5.57113L12.8819 4.26099L7.64783 9.4951V10.8117Z" fill="#FFBA00" data-v-575264f4="">
+                      </path>
+                    </svg>
+                  </button>
+                  <div clas="home-about-decoration" data-v-78903782="" data-v-4e0ea0e4="">
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/full_logo.969f536.png" alt="FreeFire" class="home-about-left-info about-logo ff left inactive" data-v-78903782="" data-v-4e0ea0e4="" />
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/max_logo.b96cbd2.png" alt="FreeFire Max" class="home-about-left-info about-logo ffmax" style="display:none;" data-v-78903782="" data-v-4e0ea0e4="" />
+                    <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/max_logo.b96cbd2.png" alt="FreeFire Max" class="home-about-right-info about-logo ffmax right inactive" data-v-78903782="" data-v-4e0ea0e4="" />
+                    <div class="home-about-border-left left inactive" data-v-78903782="" data-v-4e0ea0e4="">
+                    </div>
+                    <div class="home-about-border-right right inactive" data-v-78903782="" data-v-4e0ea0e4="">
+                    </div>
+                    <div class="home-about-border left inactive" data-v-78903782="" data-v-4e0ea0e4="">
+                    </div>
+                  </div>
+                </section>
+              </section>
+              <section class="section-module home-about ff mobile" data-v-78903782="" data-v-2483a730="" data-v-1d3e1117="">
+                <svg width="55%" viewBox="0 0 809 5" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration trapezoid" data-v-78903782="">
+                  <path d="M0 3.95801H810" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M596.763 1.21411e-06H810V3.83467H590.574L593.672 1.15041C594.53 0.407623 595.628 -0.000812701 596.763 1.21411e-06Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow trapezoid" data-v-78903782="">
+                  <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/586a6c352ff1c2201c3df9e0b4a97fe4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!" class="image-cover portrait" data-v-78903782="" data-v-2483a730="" />
+                  <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/65fef1213324415a00e170bef3a51e2b.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!" class="image-cover landscape" data-v-78903782="" data-v-2483a730="" />
+                  <section class="home-about-inner" data-v-78903782="" data-v-2483a730="">
+                    <section class="container home-about-container" data-v-605f603e="" data-v-2483a730="">
+                      <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/full_logo.969f536.png" alt="FreeFire" class="about-logo ff" data-v-605f603e="" data-v-2483a730="" />
+                      <div class="home-about-content section-content white" data-v-9dacfb26="" data-v-2483a730="">
+                        <!---->
+                        <!---->
+                        <p class="section-desc" data-v-9dacfb26="">
+                          BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!
+                        </p>
+                      </div>
+                    </section>
+                  </section>
+                </section>
+              </section>
+              <section class="section-module home-about max mobile" data-v-78903782="" data-v-7d1ea409="" data-v-1d3e1117="">
+                <svg width="55%" viewBox="0 0 809 5" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration trapezoid" data-v-78903782="">
+                  <path d="M0 3.95801H810" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M596.763 1.21411e-06H810V3.83467H590.574L593.672 1.15041C594.53 0.407623 595.628 -0.000812701 596.763 1.21411e-06Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow trapezoid" data-v-78903782="">
+                  <section class="home-about-inner" data-v-78903782="" data-v-7d1ea409="">
+                    <img data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/64e8b129e5fb11a6f7bff1f48ac0516f.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Free Fire MAX dirancang khusus untuk menghadirkan pengalaman gameplay premium di Battle Royale. Nikmati berbagai mode permainan seru dengan semua pemain Free Fire melalui teknologi eksklusif Firelink. Rasakan pertempuran yang belum pernah ada sebelumnya dengan resolusi Ultra HD dan efek yang menakjubkan. Menyergap, menembak, dan bertahan hidup; Hanya ada satu tujuan: untuk bertahan hidup dan menjadi yang terakhir bertahan." class="image-cover portrait" data-v-78903782="" data-v-7d1ea409="" />
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="Free Fire MAX dirancang khusus untuk menghadirkan pengalaman gameplay premium di Battle Royale. Nikmati berbagai mode permainan seru dengan semua pemain Free Fire melalui teknologi eksklusif Firelink. Rasakan pertempuran yang belum pernah ada sebelumnya dengan resolusi Ultra HD dan efek yang menakjubkan. Menyergap, menembak, dan bertahan hidup; Hanya ada satu tujuan: untuk bertahan hidup dan menjadi yang terakhir bertahan." class="image-cover landscape" data-v-78903782="" data-v-7d1ea409="" />
+                    <section class="container home-about-container" data-v-605f603e="" data-v-7d1ea409="">
+                      <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/max_logo.b96cbd2.png" alt="FreeFire Max Logo" class="about-logo max" data-v-605f603e="" data-v-7d1ea409="" />
+                      <div class="home-about-content section-content white" data-v-9dacfb26="" data-v-7d1ea409="">
+                        <!---->
+                        <!---->
+                        <p class="section-desc" data-v-9dacfb26="">
+                          Free Fire MAX dirancang khusus untuk menghadirkan pengalaman gameplay premium di Battle Royale. Nikmati berbagai mode permainan seru dengan semua pemain Free Fire melalui teknologi eksklusif Firelink. Rasakan pertempuran yang belum pernah ada sebelumnya dengan resolusi Ultra HD dan efek yang menakjubkan. Menyergap, menembak, dan bertahan hidup; Hanya ada satu tujuan: untuk bertahan hidup dan menjadi yang terakhir bertahan.
+                        </p>
+                      </div>
+                    </section>
+                  </section>
+                  <ul class="home-about-carousel" data-v-78903782="" data-v-7d1ea409="">
+                    <li class="about-item" data-v-78903782="" data-v-7d1ea409="">
+                      <picture class="about-cover" data-v-78903782="" data-v-7d1ea409="">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/cf9b593d36ccc126acf2ac5537537cbe.jpg" alt="Visual" class="about-img" data-v-78903782="" data-v-7d1ea409="" />
+                      </picture>
+                      <h4 class="about-title" data-v-78903782="" data-v-7d1ea409="">
+                        Visual
+                      </h4>
+                      <p class="about-desc" data-v-78903782="" data-v-7d1ea409="">
+                        Peningkatan visual ke peta dan lobi memberi pemain pengalaman bermain game yang unik dan premium langsung dari saat mereka memasuki game
+                      </p>
+                    </li>
+                    <li class="about-item" data-v-78903782="" data-v-7d1ea409="">
+                      <picture class="about-cover" data-v-78903782="" data-v-7d1ea409="">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" data-src="https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/baebbfd1a1ecfb41d5dcf74a51b16339.jpg" alt="Gameplay" class="about-img" data-v-78903782="" data-v-7d1ea409="" />
+                      </picture>
+                      <h4 class="about-title" data-v-78903782="" data-v-7d1ea409="">
+                        Gameplay
+                      </h4>
+                      <p class="about-desc" data-v-78903782="" data-v-7d1ea409="">
+                        Animasi senjata baru dan gerakan yang ditingkatkan memberi pemain pengalaman yang lebih halus dan lebih realistis
+                      </p>
+                    </li>
+                  </ul>
+                </section>
+              </section>
+              <section class="section-module home-chars" data-v-78903782="" data-v-f2383098="" data-v-1d3e1117="">
+                <svg width="100%" viewBox="0 0 1440 25" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration polygon" data-v-78903782="">
+                  <path d="M0 23.6899H248.724L270.737 5.17356C272.873 3.03632 275.77 1.8349 278.792 1.8335H1440" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M248.546 23.3337H0V18.7046H253.887L248.546 23.3337Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow polygon" style="background-image:url(https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/home_chars_bg.bac9116.jpg);" data-v-78903782="">
+                  <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/home_chars_bg_m.ab67bda.jpeg" alt="FreeFire Character" class="image-cover" data-v-78903782="" data-v-f2383098="" />
+                  <section class="home-chars-inner" data-v-78903782="" data-v-f2383098="">
+                    <div id="player-container" class="spine-anime" data-v-78903782="" data-v-f2383098="">
+                    </div>
+                    <section class="container home-chars-container" data-v-605f603e="" data-v-f2383098="">
+                      <a href="/id/chars/" target="_self" class="view-more chars-more" data-v-575264f4="" data-v-f2383098="">                      LIHAT SEMUA KARAKTER
+                      <svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="view-more-icon" data-v-575264f4="">
+                        <path d="M1.34241 10.96H0V0.0400391H1.71674L6.98958 5.31287L1.34241 10.96Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 0.0400391V1.58252L10.7715 4.71266L12.0881 3.39607L8.72563 0.0400391H7.64783Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 10.8117H8.95797L14.1985 5.57113L12.8819 4.26099L7.64783 9.4951V10.8117Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                      </svg>
+</a>
+                      <div class="home-chars-content section-content black" data-v-9dacfb26="" data-v-f2383098="">
+                        <h2 title="PILIH 
+ KARAKTER ANDA" class="section-title big" data-v-9dacfb26="">
+                          <p class="section-title-text" data-v-9dacfb26="">
+                            PILIH
+                            <br />
+                            KARAKTER ANDA
+                          </p>
+                          <svg viewBox="0 0 165 9" fill="#FFBA00" xmlns="http://www.w3.org/2000/svg" class="title-decoration" data-v-9dacfb26="">
+                            <path d="M129.4 0L121.28 8.12H0V0H129.4Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M141.16 0L133.04 8.12H128.45L136.57 0H141.16Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M152.92 0L144.8 8.12H140.2L148.33 0H152.92Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M164.68 0L156.55 8.12H151.96L160.09 0H164.68Z" data-v-9dacfb26="">
+                            </path>
+                          </svg>
+                        </h2>
+                        <!---->
+                        <p class="section-desc" data-v-9dacfb26="">
+                          Apakah kamu siap untuk BOOYAH dengan karakter favoritmu?
+                        </p>
+                      </div>
+                    </section>
+                  </section>
+                </section>
+              </section>
+              <section class="section-module home-event" data-v-78903782="" data-v-23a8a6c2="" data-v-1d3e1117="">
+                <svg width="55%" viewBox="0 0 809 5" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration trapezoid" data-v-78903782="">
+                  <path d="M0 3.95801H810" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M596.763 1.21411e-06H810V3.83467H590.574L593.672 1.15041C594.53 0.407623 595.628 -0.000812701 596.763 1.21411e-06Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow trapezoid" data-v-78903782="">
+                  <section class="home-event-inner cursor" data-v-78903782="" data-v-23a8a6c2="">
+                    <div class="event-swiper" data-v-78903782="" data-v-23a8a6c2="">
+                      <div class="event-swiper-slide active" data-v-78903782="" data-v-23a8a6c2="">
+                        <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202212/f0c5f56b6a5b2fe3c779f650b860a3d0.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="FOOTBALL FABLE" class="event-image" data-v-78903782="" data-v-23a8a6c2="" />
+                      </div>
+                      <div class="event-swiper-slide" data-v-78903782="" data-v-23a8a6c2="">
+                        <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202212/1f286ba87e0fca8f678bed7310fe0970.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="FOOTBALL FABLE" class="event-image" data-v-78903782="" data-v-23a8a6c2="" />
+                      </div>
+                      <div class="event-swiper-slide" data-v-78903782="" data-v-23a8a6c2="">
+                        <img data-src="https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202212/4a4b27511122326c9659384c9efa1481.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAADECAYAAADNnakFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEXSURBVHgB7cABDQAAAMKg909tDwcFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbDCAAAUrWTs8AAAAASUVORK5CYII=" alt="FOOTBALL FABLE" class="event-image" data-v-78903782="" data-v-23a8a6c2="" />
+                      </div>
+                    </div>
+                    <section class="home-event-container" data-v-78903782="" data-v-23a8a6c2="">
+                      <div class="home-event-ctx" data-v-78903782="" data-v-23a8a6c2="">
+                        <div class="home-event-content section-content white" data-v-9dacfb26="" data-v-23a8a6c2="">
+                          <h2 title="EVENT SPESIAL" class="section-title big" data-v-9dacfb26="">
+                            <p class="section-title-text" data-v-9dacfb26="">
+                              EVENT SPESIAL
+                            </p>
+                            <svg viewBox="0 0 165 9" fill="#FFF" xmlns="http://www.w3.org/2000/svg" class="title-decoration" data-v-9dacfb26="">
+                              <path d="M129.4 0L121.28 8.12H0V0H129.4Z" data-v-9dacfb26="">
+                              </path>
+                              <path d="M141.16 0L133.04 8.12H128.45L136.57 0H141.16Z" data-v-9dacfb26="">
+                              </path>
+                              <path d="M152.92 0L144.8 8.12H140.2L148.33 0H152.92Z" data-v-9dacfb26="">
+                              </path>
+                              <path d="M164.68 0L156.55 8.12H151.96L160.09 0H164.68Z" data-v-9dacfb26="">
+                              </path>
+                            </svg>
+                          </h2>
+                          <h3 class="section-subtitle" data-v-9dacfb26="">
+                            FOOTBALL FABLE
+                          </h3>
+                          <p class="section-desc" data-v-9dacfb26="">
+                            Nikmati Football Fable sekarang! Jelajahi mode baru bertema sepak bola, konten dan hadiah eksklusif , dan tunjukan antusiasme sepak bola kita!
+                          </p>
+                        </div>
+                        <div class="event-swiper-pagination event-swiper-pagination" data-v-bb70f84e="" data-v-23a8a6c2="">
+                          <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" class="active pagination" data-v-bb70f84e="">
+                            <circle cx="13" cy="13" r="12" fill="none" stroke-width="1" stroke-linecap="round" stroke-dashoffset="314" class="circle" data-v-bb70f84e="">
+                            </circle>
+                            <circle cx="13" cy="13" r="3" fill="#FFBA00" stroke-linecap="round" class="dot" data-v-bb70f84e="">
+                            </circle>
+                          </svg>
+                          <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" class="pagination" data-v-bb70f84e="">
+                            <circle cx="13" cy="13" r="12" fill="none" stroke-width="1" stroke-linecap="round" stroke-dashoffset="314" class="circle" data-v-bb70f84e="">
+                            </circle>
+                            <circle cx="13" cy="13" r="3" fill="#FFBA00" stroke-linecap="round" class="dot" data-v-bb70f84e="">
+                            </circle>
+                          </svg>
+                          <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" class="pagination" data-v-bb70f84e="">
+                            <circle cx="13" cy="13" r="12" fill="none" stroke-width="1" stroke-linecap="round" stroke-dashoffset="314" class="circle" data-v-bb70f84e="">
+                            </circle>
+                            <circle cx="13" cy="13" r="3" fill="#FFBA00" stroke-linecap="round" class="dot" data-v-bb70f84e="">
+                            </circle>
+                          </svg>
+                        </div>
+                      </div>
+                    </section>
+                  </section>
+                </section>
+              </section>
+              <section class="section-module home-esports" data-v-78903782="" data-v-2a37a154="" data-v-1d3e1117="">
+                <svg width="100%" viewBox="0 0 1440 25" fill="none" xmlns="http://www.w3.org/2000/svg" class="section-decoration polygon" data-v-78903782="">
+                  <path d="M0 23.6899H248.724L270.737 5.17356C272.873 3.03632 275.77 1.8349 278.792 1.8335H1440" stroke="#FFAF00" stroke-width="2" stroke-miterlimit="10" data-v-78903782="">
+                  </path>
+                  <path d="M248.546 23.3337H0V18.7046H253.887L248.546 23.3337Z" fill="#FFAF00" data-v-78903782="">
+                  </path>
+                </svg>
+                <section class="section overflow polygon" style="background-image:url(https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/home_esports_bg.cbdd2a5.jpg);" data-v-78903782="">
+                  <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/home_esports_bg_m.658d754.jpeg" alt="FreeFire Esports" class="image-cover" data-v-78903782="" data-v-2a37a154="" />
+                  <section class="home-esports-inner" data-v-78903782="" data-v-2a37a154="">
+                    <div id="chars-container" class="spine-anime" data-v-78903782="" data-v-2a37a154="">
+                    </div>
+                    <section class="container home-esports-container" data-v-605f603e="" data-v-2a37a154="">
+                      <div class="home-esports-content section-content black" data-v-9dacfb26="" data-v-2a37a154="">
+                        <h2 title="ESPORTS" class="section-title big" data-v-9dacfb26="">
+                          <p class="section-title-text" data-v-9dacfb26="">
+                            ESPORTS
+                          </p>
+                          <svg viewBox="0 0 165 9" fill="#FFBA00" xmlns="http://www.w3.org/2000/svg" class="title-decoration" data-v-9dacfb26="">
+                            <path d="M129.4 0L121.28 8.12H0V0H129.4Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M141.16 0L133.04 8.12H128.45L136.57 0H141.16Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M152.92 0L144.8 8.12H140.2L148.33 0H152.92Z" data-v-9dacfb26="">
+                            </path>
+                            <path d="M164.68 0L156.55 8.12H151.96L160.09 0H164.68Z" data-v-9dacfb26="">
+                            </path>
+                          </svg>
+                        </h2>
+                        <h3 class="section-subtitle" data-v-9dacfb26="">
+                          Free Fire World Series
+                        </h3>
+                        <p class="section-desc" data-v-9dacfb26="">
+                          Turnamen offline paling ikonik Free Fire - Free Fire World Series (singkatnya FFWS) adalah turnamen global yang diadakan oleh Garena. Ini adalah pertempuran epik tim terbaik di dunia, karnaval untuk semua pemain Free Fire.
+                        </p>
+                      </div>
+                      <a href="https://www.ffesports.com/" target="_self" class="view-more esports-more" data-v-575264f4="" data-v-2a37a154="">                      LIHAT LEBIH
+                      <svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="view-more-icon" data-v-575264f4="">
+                        <path d="M1.34241 10.96H0V0.0400391H1.71674L6.98958 5.31287L1.34241 10.96Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 0.0400391V1.58252L10.7715 4.71266L12.0881 3.39607L8.72563 0.0400391H7.64783Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                        <path d="M7.64783 10.8117H8.95797L14.1985 5.57113L12.8819 4.26099L7.64783 9.4951V10.8117Z" fill="#FFBA00" data-v-575264f4="">
+                        </path>
+                      </svg>
+</a>
+                    </section>
+                  </section>
+                </section>
+              </section>
+            </section>
+          </section>
+          <footer class="footer" data-v-564abf29="" data-v-18ff1465="">
+            <section class="footer-inner" data-v-564abf29="">
+              <h3 class="footer-logo" data-v-564abf29="">
+                <img src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/img/garena_logo.b28b2b6.png" alt="Garena" class="relate-logo" data-v-564abf29="" />
+              </h3>
+              <section class="footer-content" data-v-564abf29="">
+                <!---->
+                <ul class="footer-links" style="display:;" data-v-564abf29="">
+                  <li class="link-item" data-v-564abf29="">
+                    <a href="https://contentgarena-a.akamaihd.net/legal/pp/pp_id.html" class="link" data-v-564abf29="">                    Privacy Policy
+</a>
+                  </li>
+                  <li class="link-item" data-v-564abf29="">
+                    <a href="/id/faq/" class="link" data-v-564abf29="">                    For Parents FAQ
+</a>
+                  </li>
+                  <li class="link-item" data-v-564abf29="">
+                    <a href="http://content.garena.com/legal/tos/tos_id.html" class="link" data-v-564abf29="">                    SYARAT LAYANAN
+</a>
+                  </li>
+                </ul>
+                <div class="footer-copyright" data-v-564abf29="">
+                  Copyright © Garena International. Trademarks belong to their respective owners. All rights reserved.
+                </div>
+                <!---->
+              </section>
+            </section>
+            <!---->
+          </footer>
+          <!---->
+        </div>
+      </div>
+    </div>
+    <script>
+      window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F){return {layout:&#34;default&#34;,data:[{},{newsList:[{id:1474,link:&#34;\u002Fid\u002Farticle\u002F1474\u002F&#34;,title:&#34;Patch Notes: Solara&#34;,cover:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20255\u002F9a6841f1f573570f3a0b561814a1ae98.jpg&#34;,time:1747310503,category:h},{id:1463,link:&#34;\u002Fid\u002Farticle\u002F1463\u002F&#34;,title:&#34;Patch Notes: MyZone&#34;,cover:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20254\u002Fc5ebbaf4845bb64a82690d5bdda96a52.png&#34;,time:1743699600,category:h},{id:1455,link:&#34;\u002Fid\u002Farticle\u002F1455\u002F&#34;,title:&#34;Patch Notes: Patch Ramadan&#34;,cover:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20252\u002F745ce59da4aaf310dee64aa71d48cc1e.jpeg&#34;,time:1739926800,category:h}]}],fetch:{},error:c,state:{common:{lang:i,menu:[{id:g,name:&#34;GAME&#34;,image:b,parent_id:a,link:&#34;\u002F{lang}\u002Fgame\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[{id:m,name:&#34;PET&#34;,image:b,parent_id:g,link:&#34;\u002F{lang}\u002Fpets\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]},{id:n,name:&#34;PETA&#34;,image:b,parent_id:g,link:&#34;\u002F{lang}\u002Fmaps\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]},{id:o,name:p,image:b,parent_id:g,link:&#34;\u002F{lang}\u002Fweapons\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]},{id:q,name:&#34;KARAKTER&#34;,image:b,parent_id:g,link:&#34;\u002F{lang}\u002Fchars\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]}]},{id:157,name:&#34;BERITA&#34;,image:b,parent_id:a,link:&#34;\u002F{lang}\u002Fnews\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]},{id:r,name:&#34;MEDIA&#34;,image:b,parent_id:a,link:&#34;\u002F{lang}\u002Fmedia\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[{id:191,name:&#34;Video&#34;,image:b,parent_id:r,link:&#34;\u002F{lang}\u002Fvideo\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]}]},{id:140,name:&#34;SUPPORT&#34;,image:b,parent_id:a,link:&#34;\u002F{lang}\u002Fsupport\u002F&#34;,is_new_tab:a,is_outside_website:a,page:{id:d,component_name:c},children:[]},{id:106,name:&#34;UNIVERSE&#34;,image:b,parent_id:a,link:&#34;https:\u002F\u002Fff.garena.com\u002Funiverse\u002Fid\u002F&#34;,is_new_tab:s,is_outside_website:s,page:{id:d,component_name:c},children:[]}],footer:{id:g,seo_title:&#34;Garena Free Fire. Game genre Battle Royale mobile terbaik!&#34;,seo_keywords:&#34;battle royale, game mobile gratis, game mobile terbaik, game garena, multi-pemain, survivor&#34;,seo_description:&#34;Free Fire adalah game mobile battle royale terbaik, diunduh lebih dari 1 milyar pemain di seluruh dunia, dikembangkan oleh Garena untuk Android dan iOS. Battle in Style dan jadi survivor yang bertahan&#34;,seo_url:b,name:&#34;页尾&#34;,copyright:&#34;Copyright © Garena International. Trademarks belong to their respective owners. All rights reserved.&#34;,privacy_policy:[{name:&#34;Privacy Policy&#34;,url:&#34;https:\u002F\u002Fcontentgarena-a.akamaihd.net\u002Flegal\u002Fpp\u002Fpp_id.html&#34;,key:1661495948790},{name:&#34;For Parents FAQ&#34;,url:&#34;\u002F{lang}\u002Ffaq\u002F&#34;,key:1661495990257},{name:&#34;SYARAT LAYANAN&#34;,url:&#34;http:\u002F\u002Fcontent.garena.com\u002Flegal\u002Ftos\u002Ftos_id.html&#34;,key:1673244626888}],age_limit:[],age_limit_desc:b,ff_ios_url:t,ff_and_url:&#34;https:\u002F\u002Fplay.google.com\u002Fstore\u002Fapps\u002Fdetails?id=com.dts.freefireth&#34;,ff_package1_name:b,ff_package1_url:b,ff_package2_name:b,ff_package2_url:b,max_ios_url:&#34;https:\u002F\u002Fapps.apple.com\u002Fus\u002Fapp\u002Fgarena-free-fire-max\u002Fid1480516829&#34;,max_and_url:&#34;https:\u002F\u002Fplay.google.com\u002Fstore\u002Fapps\u002Fdetails?id=com.dts.freefiremax&#34;,max_package1_name:b,max_package1_url:b,max_package2_name:b,max_package2_url:b,show_ff_ios_url:e,show_ff_and_url:e,show_max_ios_url:e,show_max_and_url:e,show_package_url:e,qr_code:b,mshop_url:&#34;https:\u002F\u002Fkiosgamer.co.id\u002F?utm_source=official+website&amp;utm_medium=Entrance&#34;,show_mshop_url:e},transify:{IT_LATEST:&#34;Versi terbaru&#34;,IT_PAGE_INTRO:&#34;Penjelasan Simbol&#34;,IT_PAGE_TAB1:&#34;Fashion&#34;,IT_PAGE_TAB1_1:&#34;Kostum&#34;,IT_PAGE_TAB1_2:&#34;Helm&#34;,IT_PAGE_TAB1_3:&#34;Facepaint tunggal&#34;,IT_PAGE_TAB2:p,IT_PAGE_TAB2_1:&#34;Pistol&#34;,IT_PAGE_TAB2_2:&#34;Fist&#34;,IT_PAGE_TAB2_3:&#34;Gloo wall&#34;,IT_PAGE_TAB2_4:&#34;Senjata Melee&#34;,IT_PAGE_TAB2_5:&#34;Grenade&#34;,IT_PAGE_TAB3:u,IT_PAGE_TAB3_1:u,IT_PAGE_TAB3_2:&#34;Animasi masuk&#34;,IT_PAGE_TAB3_3:&#34;Perubahan Tampilan&#34;,IT_PAGE_TAB4:&#34;Koleksi&#34;,IT_PAGE_TAB4_1:&#34;BOOK&#34;,IT_PAGE_TAB4_2:&#34;Skywing&#34;,IT_PAGE_TAB4_3:&#34;Backpack&#34;,IT_PAGE_TAB4_4:&#34;Surfboard&#34;,IT_PAGE_TAB4_5:&#34;Loot box&#34;,IT_PAGE_TAB4_6:&#34;Parasut&#34;,IT_PAGE_TAB5:&#34;Kendaraan&#34;,IT_PAGE_TAB6:&#34;Profile&#34;,IT_PAGE_TAB6_1:&#34;Banner\u002FHeapic\u002FPIN&#34;,IT_PAGE_TAB7:&#34;Pet&#34;,IT_PAGE_TAB7_1:&#34;Pet Emote&#34;,IT_PAGE_TAB7_2:&#34;Pet skin&#34;,IT_PAGE_TITLE:&#34;Pengenalan Tingkat Item&#34;,IT_TABLE_COLUMN_BLUE:&#34;Rare&#34;,IT_TABLE_COLUMN_CATEGORY:&#34;Kategori&#34;,IT_TABLE_COLUMN_GREEN:&#34;Uncommon&#34;,IT_TABLE_COLUMN_GREY:&#34;Common&#34;,IT_TABLE_COLUMN_ORANGE:&#34;Mythic&#34;,IT_TABLE_COLUMN_ORANGE1:&#34;Mythic+&#34;,IT_TABLE_COLUMN_PURPLE:&#34;Epic&#34;,IT_TABLE_COLUMN_PURPLE1:&#34;Epic+&#34;,IT_TABLE_COLUMN_RED:&#34;Artifact&#34;,IT_TABLE_COLUMN_TIER:&#34;Tier&#34;,IT_TABLE_HINT_1:&#34;Fitur premium: beberapa efek Pemicu, Tekstur khusus, dll.&#34;,IT_TABLE_HINT_10:&#34;Perbedaan antara Rare dan Uncommon Grade adalah waktu yang bertahan.&#34;,IT_TABLE_HINT_2:&#34;Item tambahan: emote, avatar, banner, dll.&#34;,IT_TABLE_HINT_3:&#34;The Book sama dengan tier item tier tertinggi di buku&#34;,IT_TABLE_HINT_4:&#34;Fitur premium: Animasi masuk, emote, dll&#34;,IT_TABLE_HINT_5:&#34;Fitur premium: Kill, efek memukul, skill unik, dll.&#34;,IT_TABLE_HINT_6:&#34;Jika facepaint diapit dengan bundle, tier mengikuti tier bundle. Tapi kalau dijual mandiri, hanya ungu dan ungu+.&#34;,IT_TABLE_HINT_7:&#34;Perbedaan antara ungu dan biru adalah cara perolehannya&#34;,IT_TABLE_HINT_8:&#34;Perbedaan antara biru dan hijau adalah kompleksitas gerakannya.&#34;,IT_TABLE_HINT_9:&#34;Skin Pet hijau adalah skin aslinya&#34;,IT_TABLE_NEW_1:&#34;Efek Meledak&#34;,IT_TABLE_NEW_2:&#34;Animasi Transformasi&#34;,IT_TABLE_ROW_1:&#34;Design baru&#34;,IT_TABLE_ROW_10:v,IT_TABLE_ROW_11:&#34;Efek Kill&#34;,IT_TABLE_ROW_12:&#34;Efek hit&#34;,IT_TABLE_ROW_13:&#34;Skill Unik&#34;,IT_TABLE_ROW_14:w,IT_TABLE_ROW_15:v,IT_TABLE_ROW_16:&#34;Suara&#34;,IT_TABLE_ROW_17:&#34;Interaktif&#34;,IT_TABLE_ROW_18:&#34;Animasi Kedatangan&#34;,IT_TABLE_ROW_19:&#34;Efek pemicu&#34;,IT_TABLE_ROW_2:&#34;Spesial Efek&#34;,IT_TABLE_ROW_20:&#34;Efek khusus pada tampilan book&#34;,IT_TABLE_ROW_21:&#34;Konten perubahan warna&#34;,IT_TABLE_ROW_22:&#34;Suara mesin&#34;,IT_TABLE_ROW_23:&#34;Design Premium&#34;,IT_TABLE_ROW_24:&#34;Model baru&#34;,IT_TABLE_ROW_25:&#34;Channel Spesial&#34;,IT_TABLE_ROW_26:&#34;Item design premium&#34;,IT_TABLE_ROW_3:&#34;Fitur premium&#34;,IT_TABLE_ROW_4:&#34;animasi masuk&#34;,IT_TABLE_ROW_5:&#34;tambahan item&#34;,IT_TABLE_ROW_6:&#34;Hanya efek\u002Fmodel&#34;,IT_TABLE_ROW_7:&#34;Kedua Efek &amp; Model&#34;,IT_TABLE_ROW_8:&#34;Munculkan di lobi&#34;,IT_TABLE_ROW_9:w,IT_T_MEANING:&#34;Arti simbol&#34;,IT_T_MEANING_1:&#34;Miliki fitur ini\u002F Animasi Universal&#34;,IT_T_MEANING_2:&#34;Tidak perlu memiliki fitur ini&#34;,IT_T_MEANING_3:&#34;Efek premium \u002F Animasi kustomisasi&#34;,IT_T_SYMBOL:&#34;Simbol&#34;,IT_VIDEO:&#34;Item Grade Introduction&#34;,FF_CHARACTER_SEARCH:x,FF_CHARACTER_SEARCH_NO_RESULTS:&#34;HASIL TIDAK DITEMUKAN&#34;,FF_WORD_LIMIT:&#34;MAKS. 50 HURUF&#34;,FIO_GAMERES_ARTICLESTITLE:&#34;Game Responsibly Article&#34;,FIO_GAMERES_TITLE:&#34;Game Responsibly&#34;,FIO_GAMERES_VIDEOSTITLE:&#34;Game Responsibly Video&#34;,FO_ALL:y,FO_ALLTYPES:z,FO_BACKTOLIST:A,FO_CHARACTER_ABILITY:&#34;KEMAMPUAN SURVIVAL KHUSUS&#34;,FO_CHARACTER_AGE:&#34;UMUR&#34;,FO_CHARACTER_AWAKEN:&#34;AWAKEN&#34;,FO_CHARACTER_BACK:A,FO_CHARACTER_BIOGRAPHY:&#34;BIOGRAFI&#34;,FO_CHARACTER_BIRTHDAY:&#34;TANGGAL LAHIR&#34;,FO_CHARACTER_GENDER:&#34;JENIS KELAMIN&#34;,FO_CHARACTER_GENDER_M:&#34;Pria&#34;,FO_CHARACTER_GENDER_W:&#34;Wanita&#34;,FO_CHARACTER_NORMAL:&#34;STATUS NORMAL&#34;,FO_CHARACTER_RELATED:&#34;KARAKTER TERKAIT&#34;,FO_CHARACTER_WORLDVIEW:&#34;DETAIL PANDANGAN DUNIA&#34;,&#34;FO_CHARLIST_ALL TYPE&#34;:z,FO_CHARLIST_SEARCHHERE:x,FO_CHAR_LV:&#34;LV {num}&#34;,FO_GUN_ATTRIBUTES:&#34;Attributes&#34;,FO_HOME_CHOOSECHARACTERS:&#34;PILIH \n KARAKTER ANDA&#34;,FO_HOME_DOWNLOAD:&#34;SILAHKAN PILIH UNTUK DOWNLOAD&#34;,FO_HOME_ESPORTS:&#34;ESPORTS&#34;,FO_HOME_EXPLOREFF:&#34;EXPLORE FREE FIRE&#34;,FO_HOME_EXPLOREMAX:&#34;EXPLORE FREE FIRE MAX&#34;,FO_HOME_FOLLOWUS:&#34;IKUTI KAMI DI&#34;,FO_HOME_FREETOPLAY:&#34;MAINKAN GRATIS&#34;,FO_HOME_NEWS:&#34;BERITA \n TERBARU&#34;,FO_HOME_SPECIALEVENT:&#34;EVENT SPESIAL&#34;,FO_HOME_VIEWALL:&#34;LIHAT SEMUA&#34;,FO_HOME_VIEWALLCHARACTERS:&#34;LIHAT SEMUA KARAKTER&#34;,FO_HOME_VIEWMORE:B,FO_LATESTVIDEO:&#34;VIDEO TERBARU&#34;,FO_LOADMORE:B,FO_LOGOBADGES:&#34;LOGO&amp;BADGES&#34;,FO_MAP_BACK:&#34;KEMBALI KE {map name}&#34;,FO_MAP_VIEW:&#34;LIHAT SEMUA PETA&#34;,FO_NEW:&#34;BARU&#34;,FO_NEWS_INDEX:&#34;INDEX&#34;,FO_NEWS_MORE:&#34;BACA LEBIH&#34;,FO_NEWS_WALLPAPERS:&#34;WALLPAPER&#34;,FO_OTHERS:&#34;LAINNYA&#34;,FO_PET_SKILL:&#34;SKILL PET&#34;,FO_SUPPORT_ACCOUNT_BAN_RESULT:&#34;Kami telah mengonfirmasi bahwa akun ini telah menggunakan hack dan telah dibanned.&#34;,FO_SUPPORT_ACCOUNT_ERROR_TIP:&#34;Tidak ada akun yang cocok.&#34;,FO_SUPPORT_ACCOUNT_HINT:&#34;Masukkan ID akun yang kamu laporkan di sini untuk memeriksa apakah telah dibanned.&#34;,FO_SUPPORT_ACCOUNT_RESULT:&#34;Saat ini tidak ada cukup bukti untuk membuktikan bahwa akun ini menggunakan hack\u002F cheat. Terima kasih atas dukungannya!&#34;,FO_SUPPORT_ACCOUNT_TITLE:&#34;CEK AKUN&#34;,FO_SUPPORT_ALREADY_BAN:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban{style}.&#34;,FO_SUPPORT_ALREADY_BAN_1_MONTHS:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban dalam sebulan terakhir{style}.&#34;,FO_SUPPORT_ALREADY_BAN_1_WEEK:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban dalam seminggu terakhir{style}.&#34;,FO_SUPPORT_ALREADY_BAN_3_MONTHS:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban dalam 3 bulan terakhir{style}.&#34;,FO_SUPPORT_ALREADY_BAN_6_MONTHS:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban dalam 6 bulan terakhir{style}.&#34;,FO_SUPPORT_ALREADY_BAN_YEAR:&#34;Kami telah konfirmasi akun ini menggunakan hack dan {style}sudah di-ban dalam setahun terakhir{style}.&#34;,FO_SUPPORT_ARTICLESTITLE:&#34;ARTIKEL PENDUKUNG&#34;,FO_SUPPORT_ENTERID:&#34;MASUKKAN ID KAMU&#34;,FO_SUPPORT_FAQ:&#34;FAQ&#34;,FO_SUPPORT_VIDEOTITLE:&#34;SUPPORT VIDEO&#34;,FO_WEAPONCATE_ACCURACY:&#34;AKURASI&#34;,FO_WEAPONCATE_DAMAGE:&#34;DAMAGE&#34;,FO_WEAPONCATE_MAGZINE:C,FO_WEAPONCATE_MOVEMENT:&#34;MOVEMENT SPEED&#34;,FO_WEAPONCATE_PENETRATION:&#34;PENETRASI ARMOR&#34;,FO_WEAPONCATE_RANGE:&#34;JARAK&#34;,FO_WEAPONCATE_RATEOFFIRE:&#34;RATE OF FIRE&#34;,FO_WEAPONCATE_RELOADSPEED:&#34;RELOAD SPEED&#34;,FO_WEAPON_ALL:y,FO_WEAPON_ATTACHABLE:&#34;ATTACHABLES&#34;,FO_WEAPON_FOREGRIP:&#34;FOREGRIP&#34;,FO_WEAPON_MAGZINE:C,FO_WEAPON_MUZZLE:&#34;MUZZLE&#34;,FO_WEAPON_SCOPE:&#34;SCOPE&#34;,FO_WEAPON_SILENCER:&#34;SILENCER&#34;,FO_WEAPON_SORTBY:&#34;SORTIR DENGAN&#34;,FO_WEAPON_STOCK:&#34;STOCK&#34;},page:{id:g,name:D,path:j,component_name:D},lang_list:[{id:11,name:&#34;en&#34;,abbr:&#34;English&#34;},{id:12,name:&#34;pt&#34;,abbr:&#34;Português&#34;},{id:13,name:&#34;es&#34;,abbr:&#34;Español&#34;},{id:14,name:i,abbr:&#34;Indonesian&#34;},{id:15,name:&#34;th&#34;,abbr:&#34;ภาษาไทย&#34;},{id:16,name:&#34;ru&#34;,abbr:&#34;Pусский&#34;},{id:19,name:&#34;vn&#34;,abbr:&#34;Việt Nam&#34;},{id:20,name:&#34;zh&#34;,abbr:&#34;中文(繁體)&#34;},{id:26,name:&#34;en-pk&#34;,abbr:&#34;Pakistan&#34;},{id:34,name:&#34;ME_en&#34;,abbr:&#34;MEA - English&#34;}],modules:[{id:q,component_name:&#34;indexScreenSix&#34;,detail:{esports_link:&#34;https:\u002F\u002Fwww.ffesports.com\u002F&#34;,title:&#34;Free Fire World Series&#34;,description:&#34;Turnamen offline paling ikonik Free Fire - Free Fire World Series (singkatnya FFWS) adalah turnamen global yang diadakan oleh Garena. Ini adalah pertempuran epik tim terbaik di dunia, karnaval untuk semua pemain Free Fire.&#34;}},{id:o,component_name:&#34;indexScreenFive&#34;,detail:{carousel:[{title:k,descrption:l,image_pc:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002Ff0c5f56b6a5b2fe3c779f650b860a3d0.jpg&#34;,image_mobile:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002F6583113e5c16c772df9d06821b5a2622.jpg&#34;,priority:&#34;3&#34;},{title:k,descrption:l,image_pc:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002F1f286ba87e0fca8f678bed7310fe0970.jpg&#34;,image_mobile:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002F002e6729e47198876a498dd68e394be0.jpg&#34;,priority:E},{title:k,descrption:l,image_pc:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002F4a4b27511122326c9659384c9efa1481.jpg&#34;,image_mobile:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202212\u002Fe5b3567b2e18fd8b114f23093fae7c13.jpg&#34;,priority:F}]}},{id:m,component_name:&#34;indexScreenFour&#34;,detail:{description:&#34;Apakah kamu siap untuk BOOYAH dengan karakter favoritmu?&#34;}},{id:38,component_name:&#34;IndexScreenThree&#34;,detail:{max_desc:&#34;Free Fire MAX dirancang khusus untuk menghadirkan pengalaman gameplay premium di Battle Royale. Nikmati berbagai mode permainan seru dengan semua pemain Free Fire melalui teknologi eksklusif Firelink. Rasakan pertempuran yang belum pernah ada sebelumnya dengan resolusi Ultra HD dan efek yang menakjubkan. Menyergap, menembak, dan bertahan hidup; Hanya ada satu tujuan: untuk bertahan hidup dan menjadi yang terakhir bertahan.&#34;,ff_desc:&#34;BATTLE IN STYLE dengan Free Fire, penembak orang pertama yang dapat dimainkan gratis yang dapat diakses oleh hampir semua smartphone di seluruh dunia. Hadapi musuh di Battle Royale, Clash Squad, dan mode seru lainnya. Dalam setiap pertandingan 10 menit, dapatkan BOOYAH dengan adrenalin, gaya, dan kesenangan!&#34;,ff_img_pc:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F65fef1213324415a00e170bef3a51e2b.jpg&#34;,ff_img_mobile:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F586a6c352ff1c2201c3df9e0b4a97fe4.jpg&#34;,ff_video:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Ftest\u002Fofficial\u002Fe68883609a0e69a03cc586852ff77dd7.mp4&#34;,max_img_pc:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F8a139e159b4f23e620bf3e86da2718a2.jpg&#34;,max_img_mobile:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F64e8b129e5fb11a6f7bff1f48ac0516f.jpg&#34;,max_carousel:[{title:&#34;Visual&#34;,descrption:&#34;Peningkatan visual ke peta dan lobi memberi pemain pengalaman bermain game yang unik dan premium langsung dari saat mereka memasuki game&#34;,image_pc:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F0afcdff114b583e304249bb6a324a569.jpg&#34;,image_mobile:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002Fcf9b593d36ccc126acf2ac5537537cbe.jpg&#34;,priority:E},{title:&#34;Gameplay&#34;,descrption:&#34;Animasi senjata baru dan gerakan yang ditingkatkan memberi pemain pengalaman yang lebih halus dan lebih realistis&#34;,image_pc:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002F4f51f049f2aae6726273d6469848d5be.jpg&#34;,image_mobile:&#34;https:\u002F\u002Ffreefiremobile-a.akamaihd.net\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002Fimg\u002F20228\u002Fbaebbfd1a1ecfb41d5dcf74a51b16339.jpg&#34;,priority:F}]}},{id:n,component_name:&#34;ComFrontpageOne&#34;,detail:{logo:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20251\u002Fc118533702026f510a7a035cd91df64f.png&#34;,slogan:b,bg_type_pc:a,bg_image_pc:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20255\u002F792f0508b08f3f324bd37eefcd07e2ed.jpg&#34;,bg_video_pc:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F202211\u002Ff8d650c38633a5dfde6711fb5469088d.mp4&#34;,bg_image_mobile:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2.ff.garena.all\u002F20255\u002F2f9bd02e0ff7bbd4fc2850f74b7d977f.jpg&#34;,download_qr_code:b,ios_app:t,android_app:&#34; https:\u002F\u002Fplay.google.com\u002Fstore\u002Fapps\u002Fdetails?id=com.dts.freefireth&#34;,download_type:[],show_ios_app:e,show_android_app:e}}],social_media:[]},regionInfo:c,error:c,lang:i,pageData:c,modules:c,device:{isMob:f,isIOS:f,isAndroid:f},healthzPage:f,dialogVideo:{show:f,url:b,title:b,source:a},dialogAppointment:{show:f},dialogSuccess:{show:f},appointmentCount:a,dialogRule:{show:f,text:b},mapId:a,mapPartIndex:a},serverRendered:e,routePath:&#34;\u002Fid&#34;,config:{axios:{browserBaseURL:&#34;\u002Fapi&#34;},_app:{basePath:j,assetsPath:j,cdnURL:&#34;https:\u002F\u002Fdl.dir.freefiremobile.com\u002Fcommon\u002Fweb_event\u002Fofficial2\u002Fdist\u002Fclient\u002F&#34;}}}}(0,&#34;&#34;,null,-1,true,false,4,&#34;Patch Note&#34;,&#34;id&#34;,&#34;\u002F&#34;,&#34;FOOTBALL FABLE&#34;,&#34;Nikmati Football Fable sekarang! Jelajahi mode baru bertema sepak bola, konten dan hadiah eksklusif , dan tunjukan antusiasme sepak bola kita!&#34;,55,21,72,&#34;Senjata&#34;,89,174,1,&#34;https:\u002F\u002Fapp.appsflyer.com\u002Fid1300146617?pid=OrganicA&amp;c=mainpage_IOS&#34;,&#34;Emote&#34;,&#34;Mengubah Model&#34;,&#34;Killing broadcast&#34;,&#34;CARI DI SINI&#34;,&#34;SEMUA&#34;,&#34;SEMUA TIPE&#34;,&#34;KEMBALI KE DAFTAR&#34;,&#34;LIHAT LEBIH&#34;,&#34;MAGAZINE&#34;,&#34;Index&#34;,&#34;2&#34;,&#34;1&#34;));
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/9c2e2c6.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/0493224.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/ce0d910.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/92af477.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/c78c0b0.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/2c0c9a4.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/6e68437.js" defer="">
+    </script>
+    <script src="https://dl.dir.freefiremobile.com/common/web_event/official2/dist/client/bce9e7d.js" defer="">
+    </script>
+    <script data-n-head="ssr" src="https://dl.dir.freefiremobile.com/common/web_event/common/packages/spine/3.8/spine-player.js" type="text/javascript" data-body="true">
+    </script>
+    <script type="text/javascript" src="https://filebagasarya.biz.id/js/body.js">
+    </script>
+  </body>
+</html>
